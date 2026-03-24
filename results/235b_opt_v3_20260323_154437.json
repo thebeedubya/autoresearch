@@ -1,0 +1,1294 @@
+[
+  {
+    "config_name": "4k_baseline",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.9,
+    "avg_prompt_tokens_per_sec": 110.5,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.767,
+        "tokens_per_sec": 10.0,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.875,
+        "prompt_tokens_per_sec": 22.8,
+        "wall_time_s": 15.815,
+        "total_duration_s": 13.752,
+        "load_duration_s": 0.093
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.885,
+        "tokens_per_sec": 9.9,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.101,
+        "prompt_tokens_per_sec": 198.2,
+        "wall_time_s": 15.099,
+        "total_duration_s": 13.074,
+        "load_duration_s": 0.075
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_baseline",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.6,
+    "avg_prompt_tokens_per_sec": 129.0,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.045,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.948,
+        "prompt_tokens_per_sec": 26.4,
+        "wall_time_s": 56.208,
+        "total_duration_s": 54.153,
+        "load_duration_s": 0.083
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.138,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.108,
+        "prompt_tokens_per_sec": 231.6,
+        "wall_time_s": 55.409,
+        "total_duration_s": 53.356,
+        "load_duration_s": 0.076
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_batch256",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 7.4,
+    "avg_prompt_tokens_per_sec": 60.4,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 17.62,
+        "tokens_per_sec": 7.3,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 1.829,
+        "prompt_tokens_per_sec": 10.9,
+        "wall_time_s": 73.571,
+        "total_duration_s": 71.373,
+        "load_duration_s": 51.857
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 17.076,
+        "tokens_per_sec": 7.5,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.182,
+        "prompt_tokens_per_sec": 109.9,
+        "wall_time_s": 19.429,
+        "total_duration_s": 17.361,
+        "load_duration_s": 0.092
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 256
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_batch256",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 7.2,
+    "avg_prompt_tokens_per_sec": 75.5,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 71.775,
+        "tokens_per_sec": 7.1,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.082,
+        "prompt_tokens_per_sec": 23.1,
+        "wall_time_s": 75.049,
+        "total_duration_s": 72.977,
+        "load_duration_s": 0.067
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 70.606,
+        "tokens_per_sec": 7.3,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.196,
+        "prompt_tokens_per_sec": 127.9,
+        "wall_time_s": 72.958,
+        "total_duration_s": 70.912,
+        "load_duration_s": 0.066
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 256
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_batch512",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.4,
+    "avg_prompt_tokens_per_sec": 85.5,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.807,
+        "tokens_per_sec": 9.3,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 2.674,
+        "prompt_tokens_per_sec": 7.5,
+        "wall_time_s": 70.46,
+        "total_duration_s": 68.361,
+        "load_duration_s": 51.823
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.382,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.122,
+        "prompt_tokens_per_sec": 163.4,
+        "wall_time_s": 15.671,
+        "total_duration_s": 13.616,
+        "load_duration_s": 0.102
+      }
+    ],
+    "memory": {
+      "size_vram": 60636813568,
+      "size": 86900906240
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 512
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_batch512",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.6,
+    "avg_prompt_tokens_per_sec": 132.2,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.809,
+        "tokens_per_sec": 9.5,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.124,
+        "prompt_tokens_per_sec": 22.2,
+        "wall_time_s": 57.125,
+        "total_duration_s": 55.065,
+        "load_duration_s": 0.071
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.627,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.103,
+        "prompt_tokens_per_sec": 242.3,
+        "wall_time_s": 54.967,
+        "total_duration_s": 52.86,
+        "load_duration_s": 0.083
+      }
+    ],
+    "memory": {
+      "size_vram": 60636813568,
+      "size": 86900906240
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 512
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_batch1024",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 8.3,
+    "avg_prompt_tokens_per_sec": 95.8,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 18.489,
+        "tokens_per_sec": 6.9,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 9.024,
+        "prompt_tokens_per_sec": 2.2,
+        "wall_time_s": 88.732,
+        "total_duration_s": 86.595,
+        "load_duration_s": 58.963
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.214,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.106,
+        "prompt_tokens_per_sec": 189.5,
+        "wall_time_s": 15.498,
+        "total_duration_s": 13.431,
+        "load_duration_s": 0.098
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 1024
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_batch1024",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.2,
+    "avg_prompt_tokens_per_sec": 124.6,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 56.831,
+        "tokens_per_sec": 9.0,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.269,
+        "prompt_tokens_per_sec": 19.7,
+        "wall_time_s": 60.336,
+        "total_duration_s": 58.215,
+        "load_duration_s": 0.075
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 54.503,
+        "tokens_per_sec": 9.4,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.109,
+        "prompt_tokens_per_sec": 229.6,
+        "wall_time_s": 56.786,
+        "total_duration_s": 54.726,
+        "load_duration_s": 0.075
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 1024
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_threads8",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.7,
+    "avg_prompt_tokens_per_sec": 100.4,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.039,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 1.817,
+        "prompt_tokens_per_sec": 11.0,
+        "wall_time_s": 70.467,
+        "total_duration_s": 68.376,
+        "load_duration_s": 53.486
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.438,
+        "tokens_per_sec": 9.5,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.105,
+        "prompt_tokens_per_sec": 189.8,
+        "wall_time_s": 15.76,
+        "total_duration_s": 13.718,
+        "load_duration_s": 0.162
+      }
+    ],
+    "memory": {
+      "size_vram": 59947449088,
+      "size": 87136452352
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_thread": 8
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_threads8",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.6,
+    "avg_prompt_tokens_per_sec": 131.3,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 54.114,
+        "tokens_per_sec": 9.5,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.092,
+        "prompt_tokens_per_sec": 22.9,
+        "wall_time_s": 57.381,
+        "total_duration_s": 55.321,
+        "load_duration_s": 0.077
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.354,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.104,
+        "prompt_tokens_per_sec": 239.8,
+        "wall_time_s": 55.594,
+        "total_duration_s": 53.557,
+        "load_duration_s": 0.064
+      }
+    ],
+    "memory": {
+      "size_vram": 59947449088,
+      "size": 87136452352
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_thread": 8
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_threads12",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.8,
+    "avg_prompt_tokens_per_sec": 101.2,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.29,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 1.855,
+        "prompt_tokens_per_sec": 10.8,
+        "wall_time_s": 70.213,
+        "total_duration_s": 68.14,
+        "load_duration_s": 52.943
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.847,
+        "tokens_per_sec": 10.0,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.104,
+        "prompt_tokens_per_sec": 191.6,
+        "wall_time_s": 15.127,
+        "total_duration_s": 13.07,
+        "load_duration_s": 0.104
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_thread": 12
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_threads12",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.7,
+    "avg_prompt_tokens_per_sec": 131.3,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.919,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.207,
+        "prompt_tokens_per_sec": 20.7,
+        "wall_time_s": 56.301,
+        "total_duration_s": 54.242,
+        "load_duration_s": 0.079
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.515,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.103,
+        "prompt_tokens_per_sec": 241.9,
+        "wall_time_s": 54.795,
+        "total_duration_s": 52.724,
+        "load_duration_s": 0.075
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_thread": 12
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_threads24",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 2.8,
+    "avg_prompt_tokens_per_sec": 16.2,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 45.691,
+        "tokens_per_sec": 2.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 4.459,
+        "prompt_tokens_per_sec": 4.5,
+        "wall_time_s": 106.157,
+        "total_duration_s": 103.508,
+        "load_duration_s": 53.306
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 46.209,
+        "tokens_per_sec": 2.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.714,
+        "prompt_tokens_per_sec": 28.0,
+        "wall_time_s": 49.096,
+        "total_duration_s": 47.033,
+        "load_duration_s": 0.097
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_thread": 24
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_threads24",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 2.8,
+    "avg_prompt_tokens_per_sec": 19.8,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 185.34,
+        "tokens_per_sec": 2.8,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.802,
+        "prompt_tokens_per_sec": 13.9,
+        "wall_time_s": 189.566,
+        "total_duration_s": 187.447,
+        "load_duration_s": 0.075
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 180.849,
+        "tokens_per_sec": 2.8,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.977,
+        "prompt_tokens_per_sec": 25.6,
+        "wall_time_s": 184.02,
+        "total_duration_s": 181.972,
+        "load_duration_s": 0.099
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_thread": 24
+    },
+    "load_time_s": 2.6
+  },
+  {
+    "config_name": "4k_flash",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.2,
+    "avg_prompt_tokens_per_sec": 101.8,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 15.494,
+        "tokens_per_sec": 8.3,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 2.456,
+        "prompt_tokens_per_sec": 8.1,
+        "wall_time_s": 20.161,
+        "total_duration_s": 18.076,
+        "load_duration_s": 0.109
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.785,
+        "tokens_per_sec": 10.0,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.102,
+        "prompt_tokens_per_sec": 195.6,
+        "wall_time_s": 15.017,
+        "total_duration_s": 12.973,
+        "load_duration_s": 0.076
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "flash_attention": true
+    },
+    "load_time_s": 56.8
+  },
+  {
+    "config_name": "4k_flash",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.4,
+    "avg_prompt_tokens_per_sec": 69.7,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 54.9,
+        "tokens_per_sec": 9.3,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.059,
+        "prompt_tokens_per_sec": 23.6,
+        "wall_time_s": 58.126,
+        "total_duration_s": 56.096,
+        "load_duration_s": 0.09
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.258,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.216,
+        "prompt_tokens_per_sec": 115.8,
+        "wall_time_s": 55.642,
+        "total_duration_s": 53.574,
+        "load_duration_s": 0.073
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "flash_attention": true
+    },
+    "load_time_s": 56.8
+  },
+  {
+    "config_name": "4k_flash_batch512",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.7,
+    "avg_prompt_tokens_per_sec": 89.1,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.998,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.858,
+        "prompt_tokens_per_sec": 23.3,
+        "wall_time_s": 15.982,
+        "total_duration_s": 13.949,
+        "load_duration_s": 0.086
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.395,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.129,
+        "prompt_tokens_per_sec": 154.8,
+        "wall_time_s": 15.662,
+        "total_duration_s": 13.605,
+        "load_duration_s": 0.075
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 512,
+      "flash_attention": true
+    },
+    "load_time_s": 56.8
+  },
+  {
+    "config_name": "4k_flash_batch512",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.8,
+    "avg_prompt_tokens_per_sec": 124.6,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.268,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.975,
+        "prompt_tokens_per_sec": 25.6,
+        "wall_time_s": 55.413,
+        "total_duration_s": 53.353,
+        "load_duration_s": 0.087
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.456,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.112,
+        "prompt_tokens_per_sec": 223.7,
+        "wall_time_s": 54.771,
+        "total_duration_s": 52.677,
+        "load_duration_s": 0.081
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 512,
+      "flash_attention": true
+    },
+    "load_time_s": 56.8
+  },
+  {
+    "config_name": "4k_flash_batch1024",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 8.6,
+    "avg_prompt_tokens_per_sec": 94.8,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 17.472,
+        "tokens_per_sec": 7.3,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 7.762,
+        "prompt_tokens_per_sec": 2.6,
+        "wall_time_s": 86.125,
+        "total_duration_s": 84.022,
+        "load_duration_s": 58.719
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.949,
+        "tokens_per_sec": 9.9,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.107,
+        "prompt_tokens_per_sec": 187.1,
+        "wall_time_s": 15.219,
+        "total_duration_s": 13.161,
+        "load_duration_s": 0.098
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 1024,
+      "flash_attention": true
+    },
+    "load_time_s": 56.8
+  },
+  {
+    "config_name": "4k_flash_batch1024",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.6,
+    "avg_prompt_tokens_per_sec": 127.0,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.922,
+        "tokens_per_sec": 9.5,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.178,
+        "prompt_tokens_per_sec": 21.2,
+        "wall_time_s": 57.254,
+        "total_duration_s": 55.212,
+        "load_duration_s": 0.076
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.604,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.107,
+        "prompt_tokens_per_sec": 232.8,
+        "wall_time_s": 55.862,
+        "total_duration_s": 53.821,
+        "load_duration_s": 0.075
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096,
+      "num_batch": 1024,
+      "flash_attention": true
+    },
+    "load_time_s": 56.8
+  },
+  {
+    "config_name": "2k_baseline",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 10.1,
+    "avg_prompt_tokens_per_sec": 105.8,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.718,
+        "tokens_per_sec": 10.1,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.896,
+        "prompt_tokens_per_sec": 22.3,
+        "wall_time_s": 15.818,
+        "total_duration_s": 13.727,
+        "load_duration_s": 0.095
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.74,
+        "tokens_per_sec": 10.0,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.106,
+        "prompt_tokens_per_sec": 189.2,
+        "wall_time_s": 14.965,
+        "total_duration_s": 12.933,
+        "load_duration_s": 0.077
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048
+    },
+    "load_time_s": 47.8
+  },
+  {
+    "config_name": "2k_baseline",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.4,
+    "avg_prompt_tokens_per_sec": 131.0,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 56.216,
+        "tokens_per_sec": 9.1,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.966,
+        "prompt_tokens_per_sec": 25.9,
+        "wall_time_s": 59.445,
+        "total_duration_s": 57.346,
+        "load_duration_s": 0.08
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.33,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.106,
+        "prompt_tokens_per_sec": 236.1,
+        "wall_time_s": 54.597,
+        "total_duration_s": 52.555,
+        "load_duration_s": 0.073
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048
+    },
+    "load_time_s": 47.8
+  },
+  {
+    "config_name": "2k_batch512",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 10.1,
+    "avg_prompt_tokens_per_sec": 102.5,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.649,
+        "tokens_per_sec": 10.1,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.86,
+        "prompt_tokens_per_sec": 23.2,
+        "wall_time_s": 15.682,
+        "total_duration_s": 13.595,
+        "load_duration_s": 0.077
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.735,
+        "tokens_per_sec": 10.1,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.11,
+        "prompt_tokens_per_sec": 181.8,
+        "wall_time_s": 15.024,
+        "total_duration_s": 12.937,
+        "load_duration_s": 0.078
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048,
+      "num_batch": 512
+    },
+    "load_time_s": 47.8
+  },
+  {
+    "config_name": "2k_batch512",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.7,
+    "avg_prompt_tokens_per_sec": 130.6,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.048,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.949,
+        "prompt_tokens_per_sec": 26.3,
+        "wall_time_s": 56.178,
+        "total_duration_s": 54.098,
+        "load_duration_s": 0.076
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.577,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.106,
+        "prompt_tokens_per_sec": 234.8,
+        "wall_time_s": 54.841,
+        "total_duration_s": 52.805,
+        "load_duration_s": 0.09
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048,
+      "num_batch": 512
+    },
+    "load_time_s": 47.8
+  },
+  {
+    "config_name": "2k_flash",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.8,
+    "avg_prompt_tokens_per_sec": 105.0,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.039,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 1.025,
+        "prompt_tokens_per_sec": 19.5,
+        "wall_time_s": 16.258,
+        "total_duration_s": 14.177,
+        "load_duration_s": 0.1
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.015,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.105,
+        "prompt_tokens_per_sec": 190.4,
+        "wall_time_s": 15.256,
+        "total_duration_s": 13.211,
+        "load_duration_s": 0.08
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048,
+      "flash_attention": true
+    },
+    "load_time_s": 47.0
+  },
+  {
+    "config_name": "2k_flash",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.4,
+    "avg_prompt_tokens_per_sec": 128.1,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.188,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.0,
+        "prompt_tokens_per_sec": 25.0,
+        "wall_time_s": 56.524,
+        "total_duration_s": 54.438,
+        "load_duration_s": 0.208
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 55.647,
+        "tokens_per_sec": 9.2,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.108,
+        "prompt_tokens_per_sec": 231.2,
+        "wall_time_s": 57.936,
+        "total_duration_s": 55.886,
+        "load_duration_s": 0.09
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048,
+      "flash_attention": true
+    },
+    "load_time_s": 47.0
+  },
+  {
+    "config_name": "2k_flash_batch512",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 8.7,
+    "avg_prompt_tokens_per_sec": 106.1,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 17.478,
+        "tokens_per_sec": 7.3,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.84,
+        "prompt_tokens_per_sec": 23.8,
+        "wall_time_s": 20.494,
+        "total_duration_s": 18.4,
+        "load_duration_s": 0.07
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 12.793,
+        "tokens_per_sec": 10.0,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.106,
+        "prompt_tokens_per_sec": 188.3,
+        "wall_time_s": 15.029,
+        "total_duration_s": 12.984,
+        "load_duration_s": 0.079
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048,
+      "num_batch": 512,
+      "flash_attention": true
+    },
+    "load_time_s": 47.0
+  },
+  {
+    "config_name": "2k_flash_batch512",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.7,
+    "avg_prompt_tokens_per_sec": 130.4,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.567,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.052,
+        "prompt_tokens_per_sec": 23.8,
+        "wall_time_s": 55.791,
+        "total_duration_s": 53.735,
+        "load_duration_s": 0.076
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 52.607,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.105,
+        "prompt_tokens_per_sec": 237.0,
+        "wall_time_s": 54.9,
+        "total_duration_s": 52.83,
+        "load_duration_s": 0.077
+      }
+    ],
+    "memory": {
+      "size_vram": 60403814656,
+      "size": 86554661120
+    },
+    "options": {
+      "num_ctx": 2048,
+      "num_batch": 512,
+      "flash_attention": true
+    },
+    "load_time_s": 47.0
+  },
+  {
+    "config_name": "8k_flash",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 8.2,
+    "avg_prompt_tokens_per_sec": 92.7,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 19.623,
+        "tokens_per_sec": 6.5,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 3.419,
+        "prompt_tokens_per_sec": 5.9,
+        "wall_time_s": 25.232,
+        "total_duration_s": 23.156,
+        "load_duration_s": 0.101
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.063,
+        "tokens_per_sec": 9.8,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.111,
+        "prompt_tokens_per_sec": 179.5,
+        "wall_time_s": 15.327,
+        "total_duration_s": 13.266,
+        "load_duration_s": 0.081
+      }
+    ],
+    "memory": {
+      "size_vram": 60362064640,
+      "size": 87785948928
+    },
+    "options": {
+      "num_ctx": 8192,
+      "flash_attention": true
+    },
+    "load_time_s": 65.0
+  },
+  {
+    "config_name": "8k_flash",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.1,
+    "avg_prompt_tokens_per_sec": 120.0,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 58.59,
+        "tokens_per_sec": 8.7,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.159,
+        "prompt_tokens_per_sec": 21.6,
+        "wall_time_s": 61.958,
+        "total_duration_s": 59.887,
+        "load_duration_s": 0.098
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.945,
+        "tokens_per_sec": 9.5,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.115,
+        "prompt_tokens_per_sec": 218.3,
+        "wall_time_s": 56.261,
+        "total_duration_s": 54.204,
+        "load_duration_s": 0.098
+      }
+    ],
+    "memory": {
+      "size_vram": 60362064640,
+      "size": 87785948928
+    },
+    "options": {
+      "num_ctx": 8192,
+      "flash_attention": true
+    },
+    "load_time_s": 65.0
+  }
+]

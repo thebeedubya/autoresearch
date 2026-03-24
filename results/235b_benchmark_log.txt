@@ -1,0 +1,13 @@
+Autoresearch — Qwen3 235B Q2_K Benchmark
+GPU: AMD Radeon 8060S (Strix Halo gfx1151, 96 GiB UMA)
+Model: usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest
+Time: 2026-03-23T11:56:27.588027
+
+
+############################################################
+# MODEL: usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest
+############################################################
+  Loading model...
+  ERROR: Ollama API call failed: HTTP Error 500: Internal Server Error
+  FAILED to load usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest
+BENCHMARK FAILED

@@ -1,0 +1,476 @@
+{
+  "qwen3:32b": [
+    {
+      "model": "qwen3:32b",
+      "prompt_name": "short_gen",
+      "avg_gen_tps": 10.4,
+      "avg_prompt_tps": 210.8,
+      "runs": [
+        {
+          "prompt_name": "short_gen",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 12.307,
+          "tokens_per_sec": 10.4,
+          "prompt_eval_count": 28,
+          "prompt_eval_duration_s": 0.18,
+          "prompt_tokens_per_sec": 155.1,
+          "wall_time_s": 14.643,
+          "total_duration_s": 12.612,
+          "load_duration_s": 0.088
+        },
+        {
+          "prompt_name": "short_gen",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 12.316,
+          "tokens_per_sec": 10.4,
+          "prompt_eval_count": 28,
+          "prompt_eval_duration_s": 0.105,
+          "prompt_tokens_per_sec": 266.5,
+          "wall_time_s": 14.583,
+          "total_duration_s": 12.533,
+          "load_duration_s": 0.077
+        }
+      ],
+      "memory": {
+        "size_vram": 21511238784,
+        "size": 21511238784
+      },
+      "load_time_s": 11.7
+    },
+    {
+      "model": "qwen3:32b",
+      "prompt_name": "medium_gen",
+      "avg_gen_tps": 10.3,
+      "avg_prompt_tps": 248.3,
+      "runs": [
+        {
+          "prompt_name": "medium_gen",
+          "num_predict": 512,
+          "eval_count": 512,
+          "eval_duration_s": 49.703,
+          "tokens_per_sec": 10.3,
+          "prompt_eval_count": 33,
+          "prompt_eval_duration_s": 0.18,
+          "prompt_tokens_per_sec": 182.9,
+          "wall_time_s": 52.139,
+          "total_duration_s": 50.098,
+          "load_duration_s": 0.078
+        },
+        {
+          "prompt_name": "medium_gen",
+          "num_predict": 512,
+          "eval_count": 512,
+          "eval_duration_s": 49.742,
+          "tokens_per_sec": 10.3,
+          "prompt_eval_count": 33,
+          "prompt_eval_duration_s": 0.105,
+          "prompt_tokens_per_sec": 313.7,
+          "wall_time_s": 52.096,
+          "total_duration_s": 50.07,
+          "load_duration_s": 0.085
+        }
+      ],
+      "memory": {
+        "size_vram": 21511238784,
+        "size": 21511238784
+      },
+      "load_time_s": 11.7
+    },
+    {
+      "model": "qwen3:32b",
+      "prompt_name": "long_gen",
+      "avg_gen_tps": 10.3,
+      "avg_prompt_tps": 343.2,
+      "runs": [
+        {
+          "prompt_name": "long_gen",
+          "num_predict": 1024,
+          "eval_count": 1024,
+          "eval_duration_s": 99.9,
+          "tokens_per_sec": 10.3,
+          "prompt_eval_count": 48,
+          "prompt_eval_duration_s": 0.213,
+          "prompt_tokens_per_sec": 225.0,
+          "wall_time_s": 102.5,
+          "total_duration_s": 100.462,
+          "load_duration_s": 0.075
+        },
+        {
+          "prompt_name": "long_gen",
+          "num_predict": 1024,
+          "eval_count": 1024,
+          "eval_duration_s": 99.868,
+          "tokens_per_sec": 10.3,
+          "prompt_eval_count": 48,
+          "prompt_eval_duration_s": 0.104,
+          "prompt_tokens_per_sec": 461.4,
+          "wall_time_s": 102.398,
+          "total_duration_s": 100.36,
+          "load_duration_s": 0.079
+        }
+      ],
+      "memory": {
+        "size_vram": 21511238784,
+        "size": 21511238784
+      },
+      "load_time_s": 11.7
+    },
+    {
+      "model": "qwen3:32b",
+      "prompt_name": "quality_eval",
+      "avg_gen_tps": 10.5,
+      "avg_prompt_tps": 948.6,
+      "runs": [
+        {
+          "prompt_name": "quality_eval",
+          "num_predict": 128,
+          "eval_count": 50,
+          "eval_duration_s": 4.751,
+          "tokens_per_sec": 10.5,
+          "prompt_eval_count": 171,
+          "prompt_eval_duration_s": 0.696,
+          "prompt_tokens_per_sec": 245.7,
+          "wall_time_s": 7.586,
+          "total_duration_s": 5.542,
+          "load_duration_s": 0.077
+        },
+        {
+          "prompt_name": "quality_eval",
+          "num_predict": 128,
+          "eval_count": 50,
+          "eval_duration_s": 4.761,
+          "tokens_per_sec": 10.5,
+          "prompt_eval_count": 171,
+          "prompt_eval_duration_s": 0.104,
+          "prompt_tokens_per_sec": 1651.6,
+          "wall_time_s": 6.998,
+          "total_duration_s": 4.961,
+          "load_duration_s": 0.08
+        }
+      ],
+      "memory": {
+        "size_vram": 21511238784,
+        "size": 21511238784
+      },
+      "load_time_s": 11.7
+    }
+  ],
+  "qwen3:8b": [
+    {
+      "model": "qwen3:8b",
+      "prompt_name": "short_gen",
+      "avg_gen_tps": 37.0,
+      "avg_prompt_tps": 703.2,
+      "runs": [
+        {
+          "prompt_name": "short_gen",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 3.447,
+          "tokens_per_sec": 37.1,
+          "prompt_eval_count": 28,
+          "prompt_eval_duration_s": 0.053,
+          "prompt_tokens_per_sec": 523.7,
+          "wall_time_s": 5.668,
+          "total_duration_s": 3.616,
+          "load_duration_s": 0.089
+        },
+        {
+          "prompt_name": "short_gen",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 3.456,
+          "tokens_per_sec": 37.0,
+          "prompt_eval_count": 28,
+          "prompt_eval_duration_s": 0.032,
+          "prompt_tokens_per_sec": 882.6,
+          "wall_time_s": 5.63,
+          "total_duration_s": 3.575,
+          "load_duration_s": 0.073
+        }
+      ],
+      "memory": {
+        "size_vram": 5951000448,
+        "size": 5951000448
+      },
+      "load_time_s": 5.4
+    },
+    {
+      "model": "qwen3:8b",
+      "prompt_name": "medium_gen",
+      "avg_gen_tps": 36.8,
+      "avg_prompt_tps": 817.0,
+      "runs": [
+        {
+          "prompt_name": "medium_gen",
+          "num_predict": 512,
+          "eval_count": 512,
+          "eval_duration_s": 13.9,
+          "tokens_per_sec": 36.8,
+          "prompt_eval_count": 33,
+          "prompt_eval_duration_s": 0.053,
+          "prompt_tokens_per_sec": 621.6,
+          "wall_time_s": 16.14,
+          "total_duration_s": 14.078,
+          "load_duration_s": 0.073
+        },
+        {
+          "prompt_name": "medium_gen",
+          "num_predict": 512,
+          "eval_count": 512,
+          "eval_duration_s": 13.921,
+          "tokens_per_sec": 36.8,
+          "prompt_eval_count": 33,
+          "prompt_eval_duration_s": 0.033,
+          "prompt_tokens_per_sec": 1012.3,
+          "wall_time_s": 16.161,
+          "total_duration_s": 14.095,
+          "load_duration_s": 0.074
+        }
+      ],
+      "memory": {
+        "size_vram": 5951000448,
+        "size": 5951000448
+      },
+      "load_time_s": 5.4
+    },
+    {
+      "model": "qwen3:8b",
+      "prompt_name": "long_gen",
+      "avg_gen_tps": 36.5,
+      "avg_prompt_tps": 1166.6,
+      "runs": [
+        {
+          "prompt_name": "long_gen",
+          "num_predict": 1024,
+          "eval_count": 1024,
+          "eval_duration_s": 28.069,
+          "tokens_per_sec": 36.5,
+          "prompt_eval_count": 48,
+          "prompt_eval_duration_s": 0.063,
+          "prompt_tokens_per_sec": 765.7,
+          "wall_time_s": 30.38,
+          "total_duration_s": 28.336,
+          "load_duration_s": 0.091
+        },
+        {
+          "prompt_name": "long_gen",
+          "num_predict": 1024,
+          "eval_count": 1024,
+          "eval_duration_s": 28.049,
+          "tokens_per_sec": 36.5,
+          "prompt_eval_count": 48,
+          "prompt_eval_duration_s": 0.031,
+          "prompt_tokens_per_sec": 1567.5,
+          "wall_time_s": 30.338,
+          "total_duration_s": 28.281,
+          "load_duration_s": 0.074
+        }
+      ],
+      "memory": {
+        "size_vram": 5951000448,
+        "size": 5951000448
+      },
+      "load_time_s": 5.4
+    },
+    {
+      "model": "qwen3:8b",
+      "prompt_name": "quality_eval",
+      "avg_gen_tps": 37.5,
+      "avg_prompt_tps": 3323.6,
+      "runs": [
+        {
+          "prompt_name": "quality_eval",
+          "num_predict": 128,
+          "eval_count": 46,
+          "eval_duration_s": 1.229,
+          "tokens_per_sec": 37.4,
+          "prompt_eval_count": 171,
+          "prompt_eval_duration_s": 0.174,
+          "prompt_tokens_per_sec": 985.4,
+          "wall_time_s": 3.546,
+          "total_duration_s": 1.49,
+          "load_duration_s": 0.073
+        },
+        {
+          "prompt_name": "quality_eval",
+          "num_predict": 128,
+          "eval_count": 46,
+          "eval_duration_s": 1.226,
+          "tokens_per_sec": 37.5,
+          "prompt_eval_count": 171,
+          "prompt_eval_duration_s": 0.03,
+          "prompt_tokens_per_sec": 5661.8,
+          "wall_time_s": 3.365,
+          "total_duration_s": 1.345,
+          "load_duration_s": 0.074
+        }
+      ],
+      "memory": {
+        "size_vram": 5951000448,
+        "size": 5951000448
+      },
+      "load_time_s": 5.4
+    }
+  ],
+  "usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest": [
+    {
+      "model": "usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest",
+      "prompt_name": "short_gen",
+      "avg_gen_tps": 8.6,
+      "avg_prompt_tps": 100.4,
+      "runs": [
+        {
+          "prompt_name": "short_gen",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 16.782,
+          "tokens_per_sec": 7.6,
+          "prompt_eval_count": 20,
+          "prompt_eval_duration_s": 2.549,
+          "prompt_tokens_per_sec": 7.8,
+          "wall_time_s": 21.578,
+          "total_duration_s": 19.449,
+          "load_duration_s": 0.099
+        },
+        {
+          "prompt_name": "short_gen",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 13.428,
+          "tokens_per_sec": 9.5,
+          "prompt_eval_count": 20,
+          "prompt_eval_duration_s": 0.104,
+          "prompt_tokens_per_sec": 192.9,
+          "wall_time_s": 15.699,
+          "total_duration_s": 13.618,
+          "load_duration_s": 0.077
+        }
+      ],
+      "memory": {
+        "size_vram": 60688765184,
+        "size": 86957052160
+      },
+      "load_time_s": 69.7
+    },
+    {
+      "model": "usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest",
+      "prompt_name": "medium_gen",
+      "avg_gen_tps": 9.4,
+      "avg_prompt_tps": 127.5,
+      "runs": [
+        {
+          "prompt_name": "medium_gen",
+          "num_predict": 512,
+          "eval_count": 512,
+          "eval_duration_s": 55.587,
+          "tokens_per_sec": 9.2,
+          "prompt_eval_count": 25,
+          "prompt_eval_duration_s": 1.125,
+          "prompt_tokens_per_sec": 22.2,
+          "wall_time_s": 58.881,
+          "total_duration_s": 56.836,
+          "load_duration_s": 0.077
+        },
+        {
+          "prompt_name": "medium_gen",
+          "num_predict": 512,
+          "eval_count": 512,
+          "eval_duration_s": 53.285,
+          "tokens_per_sec": 9.6,
+          "prompt_eval_count": 25,
+          "prompt_eval_duration_s": 0.107,
+          "prompt_tokens_per_sec": 232.8,
+          "wall_time_s": 55.561,
+          "total_duration_s": 53.521,
+          "load_duration_s": 0.091
+        }
+      ],
+      "memory": {
+        "size_vram": 60688765184,
+        "size": 86957052160
+      },
+      "load_time_s": 69.7
+    },
+    {
+      "model": "usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest",
+      "prompt_name": "long_gen",
+      "avg_gen_tps": 9.2,
+      "avg_prompt_tps": 200.1,
+      "runs": [
+        {
+          "prompt_name": "long_gen",
+          "num_predict": 1024,
+          "eval_count": 1024,
+          "eval_duration_s": 111.328,
+          "tokens_per_sec": 9.2,
+          "prompt_eval_count": 40,
+          "prompt_eval_duration_s": 1.93,
+          "prompt_tokens_per_sec": 20.7,
+          "wall_time_s": 115.428,
+          "total_duration_s": 113.384,
+          "load_duration_s": 0.079
+        },
+        {
+          "prompt_name": "long_gen",
+          "num_predict": 1024,
+          "eval_count": 1024,
+          "eval_duration_s": 110.064,
+          "tokens_per_sec": 9.3,
+          "prompt_eval_count": 40,
+          "prompt_eval_duration_s": 0.105,
+          "prompt_tokens_per_sec": 379.5,
+          "wall_time_s": 112.377,
+          "total_duration_s": 110.338,
+          "load_duration_s": 0.079
+        }
+      ],
+      "memory": {
+        "size_vram": 60688765184,
+        "size": 86957052160
+      },
+      "load_time_s": 69.7
+    },
+    {
+      "model": "usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest",
+      "prompt_name": "quality_eval",
+      "avg_gen_tps": 9.7,
+      "avg_prompt_tps": 741.7,
+      "runs": [
+        {
+          "prompt_name": "quality_eval",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 13.444,
+          "tokens_per_sec": 9.5,
+          "prompt_eval_count": 163,
+          "prompt_eval_duration_s": 3.993,
+          "prompt_tokens_per_sec": 40.8,
+          "wall_time_s": 19.58,
+          "total_duration_s": 17.525,
+          "load_duration_s": 0.08
+        },
+        {
+          "prompt_name": "quality_eval",
+          "num_predict": 128,
+          "eval_count": 128,
+          "eval_duration_s": 12.941,
+          "tokens_per_sec": 9.9,
+          "prompt_eval_count": 163,
+          "prompt_eval_duration_s": 0.113,
+          "prompt_tokens_per_sec": 1442.6,
+          "wall_time_s": 15.224,
+          "total_duration_s": 13.156,
+          "load_duration_s": 0.089
+        }
+      ],
+      "memory": {
+        "size_vram": 60688765184,
+        "size": 86957052160
+      },
+      "load_time_s": 69.7
+    }
+  ]
+}

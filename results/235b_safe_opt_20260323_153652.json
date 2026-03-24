@@ -1,0 +1,86 @@
+[
+  {
+    "config_name": "baseline_4k",
+    "prompt_name": "short_gen",
+    "avg_tokens_per_sec": 9.1,
+    "avg_prompt_tokens_per_sec": 98.0,
+    "runs": [
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 14.828,
+        "tokens_per_sec": 8.6,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 2.03,
+        "prompt_tokens_per_sec": 9.9,
+        "wall_time_s": 19.107,
+        "total_duration_s": 16.989,
+        "load_duration_s": 0.115
+      },
+      {
+        "prompt_name": "short_gen",
+        "num_predict": 128,
+        "eval_count": 128,
+        "eval_duration_s": 13.159,
+        "tokens_per_sec": 9.7,
+        "prompt_eval_count": 20,
+        "prompt_eval_duration_s": 0.108,
+        "prompt_tokens_per_sec": 186.0,
+        "wall_time_s": 15.392,
+        "total_duration_s": 13.357,
+        "load_duration_s": 0.079
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096
+    },
+    "load_time_s": 55.2
+  },
+  {
+    "config_name": "baseline_4k",
+    "prompt_name": "medium_gen",
+    "avg_tokens_per_sec": 9.6,
+    "avg_prompt_tokens_per_sec": 132.8,
+    "runs": [
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.245,
+        "tokens_per_sec": 9.6,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 1.074,
+        "prompt_tokens_per_sec": 23.3,
+        "wall_time_s": 56.567,
+        "total_duration_s": 54.443,
+        "load_duration_s": 0.073
+      },
+      {
+        "prompt_name": "medium_gen",
+        "num_predict": 512,
+        "eval_count": 512,
+        "eval_duration_s": 53.834,
+        "tokens_per_sec": 9.5,
+        "prompt_eval_count": 25,
+        "prompt_eval_duration_s": 0.103,
+        "prompt_tokens_per_sec": 242.4,
+        "wall_time_s": 56.115,
+        "total_duration_s": 54.074,
+        "load_duration_s": 0.077
+      }
+    ],
+    "memory": {
+      "size_vram": 60688765184,
+      "size": 86957052160
+    },
+    "options": {
+      "num_ctx": 4096
+    },
+    "load_time_s": 55.2
+  }
+]

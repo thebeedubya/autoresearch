@@ -1,0 +1,115 @@
+Autoresearch Model Ladder v1.0
+GPU: AMD Radeon 8060S (Strix Halo gfx1151, 96 GiB UMA)
+Time: 2026-03-23T11:21:06.473801
+Checking available models...
+  Found: qwen3:8b (4.9 GB)
+  qwen3:14b: not pulled (skipping)
+  Found: qwen3:32b (18.8 GB)
+  qwen3:30b: not pulled (skipping)
+  qwen3:235b: not pulled (skipping)
+
+Will benchmark: qwen3:8b, qwen3:32b
+
+############################################################
+# MODEL: qwen3:8b
+############################################################
+  Loading model...
+  Loaded in 21.2s
+  Processor: Q4_K_M
+  Size: 5.5 GB
+  VRAM: 5.5 GB
+
+  [short_gen] (128 tokens)...
+    run 1: 36.2 tok/s (prompt: 525.0 tok/s)
+    run 2: 35.9 tok/s (prompt: 917.5 tok/s)
+
+  [medium_gen] (512 tokens)...
+    run 1: 36.0 tok/s (prompt: 626.9 tok/s)
+    run 2: 36.0 tok/s (prompt: 1159.0 tok/s)
+
+  [long_gen] (1024 tokens)...
+    run 1: 35.5 tok/s (prompt: 725.6 tok/s)
+    run 2: 35.5 tok/s (prompt: 1690.8 tok/s)
+
+  [quality_eval] (128 tokens)...
+    run 1: 36.6 tok/s (prompt: 327.4 tok/s)
+    run 2: 36.5 tok/s (prompt: 5905.3 tok/s)
+
+  Quality check (JSON classifier)...
+  Raw output: {"category": "tech", "sentiment": "positive", "engagement_score": 0.0, "topics": ["ML pipeline", "quantized models", "consumer GPUs"], "action": "none"}
+  JSON valid: YES (5/5 expected keys)
+  Parsed: {
+  "category": "tech",
+  "sentiment": "positive",
+  "engagement_score": 0.0,
+  "topics": [
+    "ML pipeline",
+    "quantized models",
+    "consumer GPUs"
+  ],
+  "action": "none"
+}
+
+############################################################
+# MODEL: qwen3:32b
+############################################################
+  Loading model...
+  Loaded in 28.9s
+  Processor: Q4_K_M
+  Size: 20.0 GB
+  VRAM: 20.0 GB
+
+  [short_gen] (128 tokens)...
+    run 1: 10.1 tok/s (prompt: 152.4 tok/s)
+    run 2: 10.1 tok/s (prompt: 266.5 tok/s)
+
+  [medium_gen] (512 tokens)...
+    run 1: 10.0 tok/s (prompt: 174.5 tok/s)
+    run 2: 10.0 tok/s (prompt: 328.1 tok/s)
+
+  [long_gen] (1024 tokens)...
+    run 1: 9.9 tok/s (prompt: 215.5 tok/s)
+    run 2: 9.9 tok/s (prompt: 478.5 tok/s)
+
+  [quality_eval] (128 tokens)...
+    run 1: 10.2 tok/s (prompt: 253.4 tok/s)
+    run 2: 10.2 tok/s (prompt: 1706.0 tok/s)
+
+  Quality check (JSON classifier)...
+  Raw output: ```json
+{"category": "tech", "sentiment": "positive", "engagement_score": 0.0, "topics": ["ML pipeline", "quantized models", "open source"], "action": "none"}
+```
+  JSON valid: YES (5/5 expected keys)
+  Parsed: {
+  "category": "tech",
+  "sentiment": "positive",
+  "engagement_score": 0.0,
+  "topics": [
+    "ML pipeline",
+    "quantized models",
+    "open source"
+  ],
+  "action": "none"
+}
+
+Results saved to: C:\Users\Brad\Projects\autoresearch\results\model_ladder_20260323_112106.json
+
+================================================================================
+MODEL LADDER RESULTS
+================================================================================
+Model                Prompt           Gen tok/s Prompt tok/s   Load (s)
+----------------------------------------------------------------------
+qwen3:8b             short_gen             36.0        721.2       21.2
+qwen3:8b             medium_gen            36.0        893.0       21.2
+qwen3:8b             long_gen              35.5       1208.2       21.2
+qwen3:8b             quality_eval          36.5       3116.3       21.2
+qwen3:32b            short_gen             10.1        209.4       28.9
+qwen3:32b            medium_gen            10.0        251.3       28.9
+qwen3:32b            long_gen               9.9        347.0       28.9
+qwen3:32b            quality_eval          10.2        979.7       28.9
+
+================================================================================
+OVERALL MODEL RANKING
+================================================================================
+  #1: qwen3:8b             36.0 tok/s
+  #2: qwen3:32b            10.1 tok/s

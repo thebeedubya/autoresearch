@@ -1,0 +1,207 @@
+Autoresearch Inference Optimizer v1.0
+Target: qwen3:8b
+GPU: AMD Radeon 8060S (Strix Halo gfx1151)
+VRAM: 96 GiB UMA
+Backend: Ollama ROCm
+Time: 2026-03-23T09:58:28.956815
+
+Autoresearch Phase 1: Parameter Sweep
+Model: qwen3:8b
+Configs to test: 17
+Prompts per config: 3
+Runs per prompt: 2
+Estimated time: ~25 minutes
+
+
+============================================================
+Config: baseline
+Options: {}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.3 tok/s
+  [short_gen] run 2/2... 37.3 tok/s
+  [medium_gen] run 1/2... 37.2 tok/s
+  [medium_gen] run 2/2... 37.3 tok/s
+  [long_gen] run 1/2... 36.9 tok/s
+  [long_gen] run 2/2... 36.7 tok/s
+
+============================================================
+Config: ctx_2048
+Options: {
+  "num_ctx": 2048
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.5 tok/s
+  [short_gen] run 2/2... 37.6 tok/s
+  [medium_gen] run 1/2... 36.9 tok/s
+  [medium_gen] run 2/2... 37.3 tok/s
+  [long_gen] run 1/2... 36.9 tok/s
+  [long_gen] run 2/2... 36.5 tok/s
+
+============================================================
+Config: ctx_4096
+Options: {
+  "num_ctx": 4096
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.2 tok/s
+  [short_gen] run 2/2... 37.2 tok/s
+  [medium_gen] run 1/2... 11.8 tok/s
+  [medium_gen] run 2/2... 18.2 tok/s
+  [long_gen] run 1/2... 36.5 tok/s
+  [long_gen] run 2/2... 36.5 tok/s
+
+============================================================
+Config: ctx_8192
+Options: {
+  "num_ctx": 8192
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.1 tok/s
+  [short_gen] run 2/2... 37.2 tok/s
+  [medium_gen] run 1/2... 37.0 tok/s
+  [medium_gen] run 2/2... 37.0 tok/s
+  [long_gen] run 1/2... 36.7 tok/s
+  [long_gen] run 2/2... 36.7 tok/s
+
+============================================================
+Config: ctx_16384
+Options: {
+  "num_ctx": 16384
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.2 tok/s
+  [short_gen] run 2/2... 37.4 tok/s
+  [medium_gen] run 1/2... 36.9 tok/s
+  [medium_gen] run 2/2... 37.1 tok/s
+  [long_gen] run 1/2... 36.8 tok/s
+  [long_gen] run 2/2... 36.8 tok/s
+
+============================================================
+Config: batch_128
+Options: {
+  "num_batch": 128
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.5 tok/s
+  [short_gen] run 2/2... 37.4 tok/s
+  [medium_gen] run 1/2... 37.1 tok/s
+  [medium_gen] run 2/2... 37.1 tok/s
+  [long_gen] run 1/2... 36.7 tok/s
+  [long_gen] run 2/2... 36.5 tok/s
+
+============================================================
+Config: batch_256
+Options: {
+  "num_batch": 256
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.2 tok/s
+  [short_gen] run 2/2... 37.5 tok/s
+  [medium_gen] run 1/2... 37.1 tok/s
+  [medium_gen] run 2/2... 37.0 tok/s
+  [long_gen] run 1/2... 36.6 tok/s
+  [long_gen] run 2/2... 36.5 tok/s
+
+============================================================
+Config: batch_1024
+Options: {
+  "num_batch": 1024
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.2 tok/s
+  [short_gen] run 2/2... 37.0 tok/s
+  [medium_gen] run 1/2... 36.7 tok/s
+  [medium_gen] run 2/2... 36.7 tok/s
+  [long_gen] run 1/2... 36.4 tok/s
+  [long_gen] run 2/2... 36.5 tok/s
+
+============================================================
+Config: batch_2048
+Options: {
+  "num_batch": 2048
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.2 tok/s
+  [short_gen] run 2/2... 37.3 tok/s
+  [medium_gen] run 1/2... 37.0 tok/s
+  [medium_gen] run 2/2... 36.7 tok/s
+  [long_gen] run 1/2... 36.4 tok/s
+  [long_gen] run 2/2... 36.6 tok/s
+
+============================================================
+Config: threads_8
+Options: {
+  "num_thread": 8
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.3 tok/s
+  [short_gen] run 2/2... 37.3 tok/s
+  [medium_gen] run 1/2... 37.0 tok/s
+  [medium_gen] run 2/2... 36.7 tok/s
+  [long_gen] run 1/2... 36.6 tok/s
+  [long_gen] run 2/2... 36.6 tok/s
+
+============================================================
+Config: threads_12
+Options: {
+  "num_thread": 12
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.2 tok/s
+  [short_gen] run 2/2... 37.4 tok/s
+  [medium_gen] run 1/2... 37.0 tok/s
+  [medium_gen] run 2/2... 37.0 tok/s
+  [long_gen] run 1/2... 36.4 tok/s
+  [long_gen] run 2/2... 36.4 tok/s
+
+============================================================
+Config: threads_16
+Options: {
+  "num_thread": 16
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 36.9 tok/s
+  [short_gen] run 2/2... 37.1 tok/s
+  [medium_gen] run 1/2... 36.8 tok/s
+  [medium_gen] run 2/2... 36.5 tok/s
+  [long_gen] run 1/2... 35.9 tok/s
+  [long_gen] run 2/2... 36.3 tok/s
+
+============================================================
+Config: threads_24
+Options: {
+  "num_thread": 24
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.3 tok/s
+  [short_gen] run 2/2... 36.8 tok/s
+  [medium_gen] run 1/2... 37.0 tok/s
+  [medium_gen] run 2/2... 36.7 tok/s
+  [long_gen] run 1/2... 36.4 tok/s
+  [long_gen] run 2/2... 36.5 tok/s
+
+============================================================
+Config: combo_small_ctx_big_batch
+Options: {
+  "num_ctx": 4096,
+  "num_batch": 1024
+}
+============================================================
+  Warming up...
+  [short_gen] run 1/2... 37.4 tok/s
+  [short_gen] run 2/2... 37.5 tok/s
+  [medium_gen] run 1/2... 36.6 tok/s
+  [medium_gen] run 2/2... 

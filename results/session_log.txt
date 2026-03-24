@@ -1,0 +1,1620 @@
+[2026-03-23T12:59:54.227549] [INFO] Session logger started. PID=1783228. Interval=30s
+[2026-03-23T12:59:54.228548] [INFO] Log file: C:\Users\Brad\Projects\autoresearch\results\session_log.txt
+[2026-03-23T12:59:56.372782] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:00:23.075859] [INFO] Session logger started. PID=1347948. Interval=30s
+[2026-03-23T13:00:23.075859] [INFO] Log file: C:\Users\Brad\Projects\autoresearch\results\session_log.txt
+[2026-03-23T13:00:25.173368] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:00:28.431570] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:00:57.232185] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:01:00.488369] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:01:29.259704] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:01:32.531738] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:02:01.297356] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:02:04.572356] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:02:33.331444] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:02:36.638915] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:03:05.385703] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:03:08.720030] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:03:37.435547] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:03:40.795317] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:04:09.475582] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:04:12.831206] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:04:41.528462] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:04:44.864731] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:05:13.582358] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:05:16.914214] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:05:45.629330] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:05:48.957945] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:06:17.695549] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:06:21.024431] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:06:49.762411] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:06:53.079646] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:07:21.813290] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:07:25.117446] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:07:53.851105] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:07:57.134263] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:08:25.891992] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:08:29.196550] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:08:57.938623] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:09:01.240313] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:09:29.987435] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:09:33.289315] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:10:02.036788] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:10:05.348362] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:10:34.113214] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:10:37.398126] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:11:06.158725] [INFO] MEM: 6.4/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:11:09.470702] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:11:38.209134] [INFO] MEM: 6.3/31.6 GB used, 25.3 GB free | OLLAMA: []
+[2026-03-23T13:11:41.511437] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:12:10.278544] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:12:13.579927] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:12:42.366496] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:12:45.641269] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:13:14.428983] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:13:17.698493] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:13:46.481816] [INFO] MEM: 6.3/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:13:49.772387] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:14:18.545970] [INFO] MEM: 6.2/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T13:14:21.823877] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:14:50.615875] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:14:53.882071] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:15:22.689448] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:15:25.920920] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:15:54.750052] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:15:57.992396] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:16:26.799093] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:16:30.056380] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:16:58.846722] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:17:02.112132] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:17:30.884322] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:17:34.191463] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:18:02.944352] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:18:06.246224] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:18:35.016752] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:18:38.327435] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:19:07.097772] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:19:10.364855] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:19:39.163947] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:19:42.430204] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:20:11.208060] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:20:14.487372] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:20:43.272840] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:20:46.539599] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:21:15.335265] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:21:18.588733] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:21:47.402311] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:21:50.663750] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:22:19.483073] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:22:22.715948] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:22:51.541377] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:22:54.761678] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:23:23.586078] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:23:26.813789] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:23:55.652677] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:23:58.888479] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:24:27.718095] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:24:30.955978] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:24:59.785844] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:25:03.027146] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:25:31.845552] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:25:35.101260] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:26:03.899690] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:26:07.154943] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:26:35.959449] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:26:39.237404] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:27:08.008181] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:27:11.304678] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:27:40.083863] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:27:43.384721] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:28:12.167062] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:28:15.439676] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:28:44.227986] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:28:47.486806] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:29:16.299115] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:29:19.534815] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:29:48.358714] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:29:51.594678] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:30:20.411601] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:30:23.659628] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:30:52.464296] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:30:55.725483] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:31:24.528815] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:31:27.789971] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:31:56.574248] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:31:59.871176] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:32:28.614019] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:32:31.936884] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:33:00.673160] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:33:04.005396] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:33:32.725912] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:33:36.073151] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:34:04.794649] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:34:08.142159] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:34:36.847359] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:34:40.207458] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:35:08.893969] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:35:12.289733] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:35:40.958951] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:35:44.378513] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:36:13.015858] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:36:16.434023] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:36:45.094367] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:36:48.487093] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:37:17.156503] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:37:20.557994] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:37:49.223685] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:37:52.614982] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:38:21.297862] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:38:24.684493] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:38:53.386106] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:38:56.759358] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:39:25.459353] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:39:28.815226] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:39:57.516624] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:40:00.883837] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:40:29.582464] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:40:32.947206] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:41:01.647423] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:41:05.025091] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:41:33.679111] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:41:37.102199] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:42:05.730218] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:42:09.156398] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:42:37.806877] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:42:41.227029] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:43:09.871370] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:43:13.276798] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:43:41.956446] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:43:45.318955] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:44:13.994838] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:44:17.365752] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:44:46.043204] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:44:49.448427] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:45:18.109464] [INFO] MEM: 6.4/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:45:21.522994] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:45:50.148745] [INFO] MEM: 6.5/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:45:53.571042] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:46:22.211768] [INFO] MEM: 6.5/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:46:25.640357] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:46:54.289354] [INFO] MEM: 6.5/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:46:57.720329] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:47:26.344887] [INFO] MEM: 6.5/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T13:47:29.764885] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:47:58.394951] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:48:01.835927] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:48:30.451560] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:48:33.915887] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:49:02.519683] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:49:05.967844] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:49:34.571769] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:49:38.016502] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:50:06.629876] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:50:10.088710] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:50:38.682857] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:50:42.147854] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:51:10.723944] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:51:14.210852] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:51:42.805046] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:51:46.281200] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:52:14.862995] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:52:18.332015] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:52:46.924466] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:52:50.378816] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:53:18.999383] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:53:22.438412] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:53:51.058946] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:53:54.493173] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:54:23.122129] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:54:26.561301] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:54:55.178968] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:54:58.621131] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:55:27.232380] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:55:30.678524] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:55:59.292543] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:56:02.717083] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:56:31.345419] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:56:34.789760] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:57:03.443194] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:57:06.852799] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:57:35.508293] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:57:38.908556] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:58:07.567979] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:58:10.977991] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:58:39.609729] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:58:43.009881] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:59:11.652543] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:59:15.064255] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T13:59:43.696434] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T13:59:47.126749] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:00:15.754828] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:00:19.199871] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:00:47.829519] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:00:51.232381] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:01:19.893762] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:01:23.286508] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:01:51.971343] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:01:55.329459] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:02:24.016773] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:02:27.395662] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:02:56.085712] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:02:59.461789] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:03:28.125745] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:03:31.527725] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:04:00.173389] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:04:03.579284] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:04:32.238693] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:04:35.641473] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:05:04.325781] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:05:07.721236] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:05:36.388136] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:05:39.792832] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:06:08.441171] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:06:11.854912] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:06:40.531438] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:06:43.926860] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:07:12.579345] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:07:15.991363] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:07:44.632487] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:07:48.077157] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:08:16.700311] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:08:20.128999] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:08:48.754314] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:08:52.192486] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:09:20.804731] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:09:24.245712] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:09:52.870790] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:09:56.299663] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:10:24.939996] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:10:28.376684] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:10:56.980370] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:11:00.438283] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:11:29.041623] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:11:32.521704] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:12:01.113189] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:12:04.595639] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:12:33.154928] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:12:36.655076] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:13:05.208199] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:13:08.723495] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:13:37.282213] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:13:40.760463] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:14:09.316291] [INFO] MEM: 6.6/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:14:12.828702] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:14:41.368515] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:14:44.881535] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:15:13.421906] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:15:16.947649] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:15:45.481185] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:15:49.015801] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:16:17.524264] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:16:21.055868] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:16:49.584743] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:16:53.127548] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:17:21.633141] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:17:25.183037] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:17:53.684879] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:17:57.216283] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:18:25.739419] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:18:29.286809] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:18:57.790070] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:19:01.340891] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:19:29.860000] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:19:33.391376] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:20:01.899294] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:20:05.456828] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:20:33.963798] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:20:37.532369] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:21:06.041801] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:21:09.594756] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:21:38.119907] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:21:41.634775] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:22:10.190024] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:22:13.676777] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:22:42.248445] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:22:45.741761] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:23:14.306266] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:23:17.814477] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:23:46.383473] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:23:49.893323] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:24:18.466160] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:24:21.961238] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:24:50.534318] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:24:54.038048] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:25:22.600827] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:25:26.104899] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:25:54.655308] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:25:58.155769] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:26:26.730257] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:26:30.220009] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:26:58.788339] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:27:02.299797] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:27:30.849387] [INFO] MEM: 6.9/31.6 GB used, 24.7 GB free | OLLAMA: []
+[2026-03-23T14:27:34.361911] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:28:02.935516] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:28:06.402967] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:28:34.997731] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:28:38.463125] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:29:07.044759] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:29:10.528893] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:29:39.105894] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:29:42.601513] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:30:11.172693] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:30:14.654839] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:30:43.213097] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:30:46.731701] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:31:15.271887] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:31:18.776040] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:31:47.349762] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:31:50.831518] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:32:19.414901] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:32:22.861366] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:32:51.483472] [INFO] MEM: 6.7/31.6 GB used, 25.0 GB free | OLLAMA: []
+[2026-03-23T14:32:54.925419] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:33:23.546246] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:33:26.995634] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:33:55.609657] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:33:59.066860] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:34:27.663039] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:34:31.124994] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:34:59.735902] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:35:03.177415] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:35:31.787694] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:35:35.229792] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:36:03.847940] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:36:07.288884] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:36:35.914183] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:36:39.359366] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:37:07.968589] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:37:11.415964] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:37:40.033821] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:37:43.477755] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:38:12.085502] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:38:15.556026] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:38:44.138337] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:38:47.619350] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:39:16.193840] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:39:19.666977] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:39:48.251753] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:39:51.742314] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:40:20.323975] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:40:23.814954] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:40:52.379997] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:40:55.876858] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:41:24.446873] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:41:27.936661] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:41:56.521329] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:41:59.984983] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:42:28.597534] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:42:32.055239] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:43:00.659513] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:43:04.116942] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:43:32.722629] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:43:36.177187] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:44:04.768032] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:44:08.233239] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:44:36.829667] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:44:40.300160] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:45:08.881870] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:45:12.380415] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:45:40.931798] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:45:44.445944] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:46:13.002020] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:46:16.508573] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:46:45.078571] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:46:48.572836] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:47:17.130817] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:47:20.650493] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:47:49.188498] [INFO] MEM: 6.8/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:47:52.691441] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:48:21.243695] [INFO] MEM: 6.8/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:48:24.753196] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:48:53.293781] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:48:56.831422] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:49:25.354685] [INFO] MEM: 6.7/31.6 GB used, 24.9 GB free | OLLAMA: []
+[2026-03-23T14:49:28.888435] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:49:57.400116] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: []
+[2026-03-23T14:50:00.922594] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:50:29.458025] [INFO] MEM: 7.0/31.6 GB used, 24.7 GB free | OLLAMA: []
+[2026-03-23T14:50:32.955372] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:51:01.510847] [INFO] MEM: 6.9/31.6 GB used, 24.7 GB free | OLLAMA: []
+[2026-03-23T14:51:05.000634] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:51:35.571450] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-03-23T14:51:40.102762] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:52:07.618108] [INFO] MEM: 7.1/31.6 GB used, 24.5 GB free | OLLAMA: []
+[2026-03-23T14:52:12.171928] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:52:39.659942] [INFO] MEM: 7.2/31.6 GB used, 24.5 GB free | OLLAMA: []
+[2026-03-23T14:52:44.212513] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:53:11.717335] [INFO] MEM: 7.2/31.6 GB used, 24.5 GB free | OLLAMA: []
+[2026-03-23T14:53:16.274076] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:53:43.746041] [INFO] MEM: 7.2/31.6 GB used, 24.4 GB free | OLLAMA: []
+[2026-03-23T14:53:48.337454] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:54:15.800880] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: []
+[2026-03-23T14:54:20.382541] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:54:47.848390] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: []
+[2026-03-23T14:54:52.415435] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:55:19.892446] [INFO] MEM: 7.2/31.6 GB used, 24.5 GB free | OLLAMA: []
+[2026-03-23T14:55:24.453749] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T14:55:52.138353] [CRITICAL] MEM: 31.6/31.6 GB used, 0.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:55:56.546115] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:56:22.667223] [INFO] MEM: 26.5/31.6 GB used, 5.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:56:27.191559] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:56:54.712852] [INFO] MEM: 28.9/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:56:59.230575] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:57:26.752682] [INFO] MEM: 28.2/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:57:31.252664] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:57:58.809553] [INFO] MEM: 28.1/31.6 GB used, 3.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:58:03.299381] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:58:30.855293] [INFO] MEM: 28.1/31.6 GB used, 3.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:58:35.360342] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:59:02.896266] [INFO] MEM: 28.1/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:59:07.414038] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:59:34.932744] [INFO] MEM: 28.1/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T14:59:39.471656] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:00:06.983115] [INFO] MEM: 28.2/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:00:11.538423] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:00:39.020186] [INFO] MEM: 28.2/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:00:43.594340] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:01:11.088704] [INFO] MEM: 28.2/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:01:15.635376] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:01:43.141721] [INFO] MEM: 28.2/31.6 GB used, 3.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:01:47.694296] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:02:15.194582] [INFO] MEM: 4.9/31.6 GB used, 26.8 GB free | OLLAMA: []
+[2026-03-23T15:02:19.742421] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:02:47.248890] [INFO] MEM: 4.9/31.6 GB used, 26.8 GB free | OLLAMA: []
+[2026-03-23T15:02:51.792555] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:03:19.294115] [INFO] MEM: 4.8/31.6 GB used, 26.8 GB free | OLLAMA: []
+[2026-03-23T15:03:23.828748] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:03:51.334417] [INFO] MEM: 4.8/31.6 GB used, 26.8 GB free | OLLAMA: []
+[2026-03-23T15:03:55.883967] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:04:23.387875] [INFO] MEM: 4.9/31.6 GB used, 26.7 GB free | OLLAMA: []
+[2026-03-23T15:04:27.922625] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:04:55.430065] [INFO] MEM: 4.9/31.6 GB used, 26.7 GB free | OLLAMA: []
+[2026-03-23T15:04:59.983407] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:05:27.486183] [INFO] MEM: 4.9/31.6 GB used, 26.7 GB free | OLLAMA: []
+[2026-03-23T15:05:32.023704] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:05:59.528133] [INFO] MEM: 5.1/31.6 GB used, 26.5 GB free | OLLAMA: []
+[2026-03-23T15:06:04.064719] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:06:31.600463] [INFO] MEM: 5.7/31.6 GB used, 25.9 GB free | OLLAMA: []
+[2026-03-23T15:06:36.122844] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:07:03.634152] [INFO] MEM: 5.9/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T15:07:08.155916] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:07:35.674637] [INFO] MEM: 7.6/31.6 GB used, 24.0 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:07:40.213392] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:08:07.716297] [INFO] MEM: 7.7/31.6 GB used, 23.9 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:08:12.248712] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:08:39.747042] [INFO] MEM: 7.7/31.6 GB used, 24.0 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:08:44.292548] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:09:11.780397] [INFO] MEM: 7.7/31.6 GB used, 23.9 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:09:16.325994] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:09:43.834679] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:09:48.367274] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:10:15.892751] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:10:20.396806] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:10:47.923520] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:10:52.430047] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:11:19.960840] [INFO] MEM: 7.0/31.6 GB used, 24.6 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:11:24.466428] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:11:51.990935] [INFO] MEM: 7.8/31.6 GB used, 23.9 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:11:56.496812] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:12:24.015787] [INFO] MEM: 7.6/31.6 GB used, 24.1 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:12:28.536753] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:12:56.074014] [INFO] MEM: 7.6/31.6 GB used, 24.1 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:13:00.582342] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:13:28.116712] [INFO] MEM: 7.6/31.6 GB used, 24.1 GB free | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:13:32.598798] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:32b', 'size_gb': 20.0, 'vram_gb': 20.0}]
+[2026-03-23T15:14:00.161754] [INFO] MEM: 6.5/31.6 GB used, 25.1 GB free | OLLAMA: []
+[2026-03-23T15:14:04.630246] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:14:32.210679] [INFO] MEM: 7.3/31.6 GB used, 24.3 GB free | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:14:36.694513] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:15:04.268274] [INFO] MEM: 7.6/31.6 GB used, 24.0 GB free | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:15:08.770409] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:15:36.335431] [INFO] MEM: 7.5/31.6 GB used, 24.1 GB free | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:15:40.845131] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:16:08.374860] [INFO] MEM: 7.6/31.6 GB used, 24.1 GB free | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:16:12.906166] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'qwen3:8b', 'size_gb': 5.5, 'vram_gb': 5.5}]
+[2026-03-23T15:16:40.444505] [INFO] MEM: 13.0/31.6 GB used, 18.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:16:44.976923] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:17:12.512539] [CRITICAL] MEM: 31.2/31.6 GB used, 0.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:17:17.021904] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:17:44.549946] [INFO] MEM: 27.9/31.6 GB used, 3.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:17:49.064381] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:18:16.620218] [INFO] MEM: 27.8/31.6 GB used, 3.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:18:21.094689] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:18:48.701253] [INFO] MEM: 28.3/31.6 GB used, 3.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:18:53.177206] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:19:20.746805] [INFO] MEM: 29.1/31.6 GB used, 2.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:19:25.223656] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:19:52.815947] [INFO] MEM: 29.2/31.6 GB used, 2.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:19:57.308579] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:20:24.867133] [INFO] MEM: 29.4/31.6 GB used, 2.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:20:29.368946] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:20:56.950665] [WARNING] MEM: 29.7/31.6 GB used, 1.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:20:56.951667] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:21:01.448575] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:21:29.008853] [WARNING] MEM: 29.9/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:21:29.009362] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:21:33.516444] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:22:01.119154] [WARNING] MEM: 30.0/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:22:01.119154] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:22:05.584305] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:22:33.196006] [INFO] MEM: 29.2/31.6 GB used, 2.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:22:33.196006] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:22:37.616614] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:23:05.237828] [INFO] MEM: 29.3/31.6 GB used, 2.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:23:05.239424] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:23:09.724045] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:23:37.274775] [INFO] MEM: 29.5/31.6 GB used, 2.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:23:37.287793] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:23:41.768911] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:24:09.329681] [WARNING] MEM: 30.0/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:24:09.331681] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:24:13.814464] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:24:41.405875] [WARNING] MEM: 30.0/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:24:41.405875] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:24:45.872079] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:25:13.468106] [INFO] MEM: 25.2/31.6 GB used, 6.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:25:13.470048] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:25:17.937545] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:25:45.529563] [INFO] MEM: 27.9/31.6 GB used, 3.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:25:45.531566] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:25:49.992725] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:26:17.612906] [WARNING] MEM: 30.3/31.6 GB used, 1.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:26:17.613908] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:26:22.038139] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:26:49.654731] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:26:49.655738] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:26:54.117038] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:27:21.710405] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:27:21.712929] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:27:26.153522] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:27:53.799024] [WARNING] MEM: 30.3/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:27:53.799545] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:27:58.205808] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:28:25.841305] [INFO] MEM: 27.7/31.6 GB used, 3.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:28:25.841305] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:28:30.244523] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:28:57.938925] [WARNING] MEM: 30.1/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:28:57.941545] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:29:02.325737] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:29:29.989426] [WARNING] MEM: 30.2/31.6 GB used, 1.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:29:29.990478] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:29:34.347719] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:30:02.070127] [CRITICAL] MEM: 30.7/31.6 GB used, 0.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:30:02.071555] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:30:06.412281] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:30:34.113550] [WARNING] MEM: 30.7/31.6 GB used, 1.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:30:34.114058] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:30:38.461130] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:31:06.151416] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:31:06.152416] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:31:10.501395] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:31:38.208836] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:31:38.208836] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:31:42.552612] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:32:10.249316] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:32:10.260901] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:32:14.574049] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:32:42.326666] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:32:42.327209] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:32:46.609863] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:33:14.367245] [INFO] MEM: 29.4/31.6 GB used, 2.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:33:14.367801] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:33:18.651149] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:33:46.405519] [INFO] MEM: 29.4/31.6 GB used, 2.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:33:46.406038] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:33:50.716851] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:34:18.459919] [INFO] MEM: 29.3/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:34:18.460433] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:34:22.756937] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:34:50.498899] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:34:50.511821] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:34:54.833556] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T15:35:22.558245] [INFO] MEM: 5.4/31.6 GB used, 26.3 GB free | OLLAMA: []
+[2026-03-23T15:35:22.558793] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:35:26.889142] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:35:54.606608] [INFO] MEM: 5.5/31.6 GB used, 26.2 GB free | OLLAMA: []
+[2026-03-23T15:35:54.606608] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:35:58.920685] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:36:26.686228] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T15:36:26.687250] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:36:30.984121] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:36:58.752258] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T15:36:58.753272] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:37:03.024855] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:37:30.846568] [CRITICAL] MEM: 31.4/31.6 GB used, 0.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:37:30.849202] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:37:35.095296] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:38:02.909153] [INFO] MEM: 27.4/31.6 GB used, 4.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:38:02.910157] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:38:07.191976] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:38:34.936777] [INFO] MEM: 29.3/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:38:34.937286] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:38:39.223061] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:39:06.997913] [WARNING] MEM: 29.9/31.6 GB used, 1.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:39:06.998913] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:39:11.303467] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:39:39.095739] [WARNING] MEM: 30.1/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:39:39.095739] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:39:43.357790] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:40:11.133415] [WARNING] MEM: 30.3/31.6 GB used, 1.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:40:11.133935] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:40:15.388607] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:40:43.187310] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:40:43.188320] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:40:47.433075] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:41:15.240360] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:41:15.240877] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:41:19.487737] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:41:47.304189] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:41:47.304189] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:41:51.522017] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:42:19.346223] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:42:19.346223] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:42:23.573186] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:42:51.398223] [INFO] MEM: 28.8/31.6 GB used, 2.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:42:51.398223] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:42:55.618960] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:43:23.489137] [INFO] MEM: 28.8/31.6 GB used, 2.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:43:23.490473] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:43:27.685625] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:43:55.535244] [WARNING] MEM: 29.9/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:43:55.535760] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:43:59.729241] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:44:27.570915] [WARNING] MEM: 29.8/31.6 GB used, 1.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:44:27.571914] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:44:31.773804] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:44:59.633314] [WARNING] MEM: 30.0/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:44:59.634314] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:45:03.832663] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:45:31.661469] [WARNING] MEM: 30.2/31.6 GB used, 1.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:45:31.662002] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:45:36.036728] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:46:03.741842] [WARNING] MEM: 30.3/31.6 GB used, 1.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:46:03.741842] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:46:08.062077] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:46:35.784448] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:46:35.784972] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:46:40.108108] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:47:07.834499] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:47:07.835510] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:47:12.173586] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:47:39.944455] [CRITICAL] MEM: 31.0/31.6 GB used, 0.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:47:39.948773] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:47:44.352948] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:48:11.960317] [CRITICAL] MEM: 30.7/31.6 GB used, 0.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:48:11.960317] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:48:16.478806] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:48:44.066056] [CRITICAL] MEM: 31.0/31.6 GB used, 0.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:48:44.066615] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:48:48.540239] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:49:16.156574] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:49:16.157576] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:49:20.589217] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:49:48.210617] [CRITICAL] MEM: 31.2/31.6 GB used, 0.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:49:48.210617] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:49:52.661033] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:50:20.318286] [CRITICAL] MEM: 31.3/31.6 GB used, 0.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:50:20.318811] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:50:24.698619] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:50:52.402494] [CRITICAL] MEM: 31.3/31.6 GB used, 0.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:50:52.403001] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:50:56.807913] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.9, 'vram_gb': 56.5}]
+[2026-03-23T15:51:24.443122] [INFO] MEM: 6.5/31.6 GB used, 25.1 GB free | OLLAMA: []
+[2026-03-23T15:51:24.443122] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:51:29.133186] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:51:56.554011] [INFO] MEM: 27.6/31.6 GB used, 4.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:51:56.558142] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:52:01.179897] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:52:28.658962] [WARNING] MEM: 30.3/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:52:28.659966] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:52:33.254567] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:53:00.689627] [INFO] MEM: 28.5/31.6 GB used, 3.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:53:00.690155] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:53:05.289280] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:53:32.852521] [INFO] MEM: 29.2/31.6 GB used, 2.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:53:32.853044] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:53:37.320924] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:54:04.945570] [INFO] MEM: 29.3/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:54:04.945570] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:54:09.390387] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:54:37.003269] [INFO] MEM: 29.3/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:54:37.003827] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:54:41.458965] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:55:09.098048] [CRITICAL] MEM: 31.6/31.6 GB used, 0.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:55:09.101290] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:55:13.528282] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:55:41.160373] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:55:41.161378] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:55:45.562308] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:56:13.193878] [INFO] MEM: 27.1/31.6 GB used, 4.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:56:13.193878] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:56:17.616518] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:56:45.298817] [INFO] MEM: 28.9/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:56:45.298817] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:56:49.679242] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:57:17.349687] [WARNING] MEM: 30.2/31.6 GB used, 1.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:57:17.349687] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:57:21.736102] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:57:49.382638] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:57:49.382638] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:57:53.769476] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:58:21.421023] [INFO] MEM: 25.4/31.6 GB used, 6.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T15:58:21.421545] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:58:25.836078] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T15:58:53.498543] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:58:53.500142] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:58:57.951779] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:59:25.547950] [WARNING] MEM: 30.6/31.6 GB used, 1.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:59:25.548957] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T15:59:29.990330] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:59:57.585817] [CRITICAL] MEM: 30.8/31.6 GB used, 0.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T15:59:57.586820] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:00:02.132217] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:00:29.660286] [CRITICAL] MEM: 30.9/31.6 GB used, 0.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:00:29.661293] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:00:34.206852] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:01:01.729504] [CRITICAL] MEM: 30.9/31.6 GB used, 0.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:01:01.730512] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:01:06.227523] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:01:33.746759] [CRITICAL] MEM: 30.9/31.6 GB used, 0.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:01:33.747340] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:01:38.272312] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:02:05.821243] [CRITICAL] MEM: 30.8/31.6 GB used, 0.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:02:05.823866] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:02:10.327619] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:02:37.856312] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:02:37.857317] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:02:42.399187] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:03:09.900613] [INFO] MEM: 28.9/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:03:09.901614] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:03:14.434630] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:03:41.950037] [INFO] MEM: 29.6/31.6 GB used, 2.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:03:41.950570] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:03:46.479787] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:04:13.989889] [WARNING] MEM: 30.1/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:04:13.990427] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:04:18.514681] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:04:46.037501] [WARNING] MEM: 30.6/31.6 GB used, 1.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:04:46.050089] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:04:50.537757] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:05:18.113476] [INFO] MEM: 23.9/31.6 GB used, 7.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:05:18.115295] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:05:22.608493] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:05:50.166525] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:05:50.167595] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:05:54.693604] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:06:22.293275] [CRITICAL] MEM: 30.8/31.6 GB used, 0.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:06:22.294313] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:06:26.887823] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:06:54.630190] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:06:54.631191] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:06:58.938468] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:07:27.055514] [WARNING] MEM: 30.6/31.6 GB used, 1.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:07:27.068547] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:07:30.985192] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:07:59.105088] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:07:59.106093] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:08:03.046383] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:08:31.156771] [INFO] MEM: 28.5/31.6 GB used, 3.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:08:31.156771] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:08:35.094019] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:09:03.360932] [INFO] MEM: 29.1/31.6 GB used, 2.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:09:03.360932] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:09:07.263015] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:09:35.413289] [INFO] MEM: 29.5/31.6 GB used, 2.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:09:35.414392] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:09:39.361044] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:10:07.561338] [WARNING] MEM: 29.8/31.6 GB used, 1.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:10:07.561854] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:10:11.479620] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:10:39.616069] [WARNING] MEM: 29.9/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:10:39.616585] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:10:43.518960] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:11:11.783861] [WARNING] MEM: 30.0/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:11:11.784882] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:11:15.781247] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:11:43.863990] [WARNING] MEM: 30.1/31.6 GB used, 1.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:11:43.865993] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:11:47.823356] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:12:16.002502] [WARNING] MEM: 30.2/31.6 GB used, 1.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:12:16.003506] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:12:19.876215] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:12:48.362496] [WARNING] MEM: 30.0/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:12:48.362998] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:12:52.190944] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:13:20.398870] [INFO] MEM: 27.9/31.6 GB used, 3.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:13:20.399386] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:13:24.241543] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:13:52.456238] [INFO] MEM: 5.9/31.6 GB used, 25.8 GB free | OLLAMA: []
+[2026-03-23T16:13:52.456779] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:13:56.288338] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:14:24.546737] [CRITICAL] MEM: 31.6/31.6 GB used, 0.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:14:24.549958] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:14:28.376749] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:14:56.613009] [INFO] MEM: 28.1/31.6 GB used, 3.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:14:56.613565] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:15:00.443408] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:15:28.655026] [INFO] MEM: 28.9/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:15:28.655538] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:15:32.493314] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:16:00.697746] [WARNING] MEM: 29.8/31.6 GB used, 1.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:16:00.698750] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:16:04.536899] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:16:32.763026] [WARNING] MEM: 30.6/31.6 GB used, 1.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:16:32.763026] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:16:36.561744] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:17:04.835961] [WARNING] MEM: 30.7/31.6 GB used, 1.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:17:04.837480] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:17:08.619009] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:17:36.942038] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:17:36.945628] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:17:40.657638] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:18:08.973990] [INFO] MEM: 28.5/31.6 GB used, 3.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:18:08.973990] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:18:12.697730] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:18:41.030456] [INFO] MEM: 28.6/31.6 GB used, 3.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:18:41.030456] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:18:44.768437] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:19:13.091409] [INFO] MEM: 28.8/31.6 GB used, 2.9 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:19:13.091409] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:19:16.818148] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:19:45.151202] [INFO] MEM: 28.8/31.6 GB used, 2.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:19:45.152202] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:19:48.883206] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.0, 'vram_gb': 56.5}]
+[2026-03-23T16:20:17.219832] [CRITICAL] MEM: 31.6/31.6 GB used, 0.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:20:17.223798] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:20:20.935631] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:20:49.265721] [INFO] MEM: 29.1/31.6 GB used, 2.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:20:49.266721] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:20:52.974625] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:21:21.313085] [INFO] MEM: 27.2/31.6 GB used, 4.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:21:21.315094] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:21:25.034096] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:21:53.343442] [INFO] MEM: 29.0/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:21:53.344449] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:21:57.055604] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:22:25.394544] [WARNING] MEM: 29.8/31.6 GB used, 1.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:22:25.395079] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:22:29.109464] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:22:57.463516] [WARNING] MEM: 30.0/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:22:57.464038] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:23:01.139524] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.2, 'vram_gb': 55.8}]
+[2026-03-23T16:23:29.530627] [INFO] MEM: 5.1/31.6 GB used, 26.5 GB free | OLLAMA: []
+[2026-03-23T16:23:29.531136] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:23:33.179919] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:24:01.606319] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:24:01.609430] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:24:05.232009] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:24:33.651699] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:24:33.653702] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:24:37.252995] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:25:05.773520] [CRITICAL] MEM: 30.8/31.6 GB used, 0.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:25:05.774040] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:25:09.322768] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:25:37.817900] [WARNING] MEM: 29.9/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:25:37.818420] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:25:41.372619] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:26:09.884587] [WARNING] MEM: 30.0/31.6 GB used, 1.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:26:09.886581] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:26:13.428437] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:26:42.005461] [WARNING] MEM: 30.0/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:26:42.005461] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:26:45.487841] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:27:14.049221] [WARNING] MEM: 30.1/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:27:14.049769] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:27:17.529152] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:27:46.128354] [WARNING] MEM: 30.1/31.6 GB used, 1.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:27:46.128906] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:27:49.601224] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:28:18.179350] [INFO] MEM: 29.1/31.6 GB used, 2.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:28:18.179350] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:28:21.624142] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:28:50.219554] [INFO] MEM: 29.2/31.6 GB used, 2.5 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:28:50.220560] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:28:53.707631] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:29:22.307130] [INFO] MEM: 19.8/31.6 GB used, 11.8 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:29:22.322570] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:29:25.775896] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:29:54.400407] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:29:54.401407] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:29:57.825509] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:30:26.468481] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:30:26.469485] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:30:29.852691] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:30:58.500109] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:30:58.501114] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:31:01.886643] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:31:30.532840] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:31:30.532840] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:31:33.974305] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:32:02.643101] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:32:02.643101] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:32:06.079159] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:32:34.711945] [CRITICAL] MEM: 31.0/31.6 GB used, 0.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:32:34.712953] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:32:38.277808] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:33:06.741128] [WARNING] MEM: 30.1/31.6 GB used, 1.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:33:06.741128] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:33:10.349688] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:33:38.777608] [WARNING] MEM: 30.2/31.6 GB used, 1.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:33:38.778138] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:33:42.460543] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:34:10.802679] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:34:10.803198] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:34:14.492711] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:34:42.865180] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:34:42.865694] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:34:46.538386] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 80.6, 'vram_gb': 56.3}]
+[2026-03-23T16:35:14.939883] [INFO] MEM: 21.6/31.6 GB used, 10.0 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:35:14.945156] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:35:18.609696] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:35:47.038768] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:35:47.041587] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:35:50.652108] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:36:19.102621] [INFO] MEM: 28.9/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:36:19.103629] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:36:22.710892] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:36:51.134057] [INFO] MEM: 27.5/31.6 GB used, 4.2 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:36:51.135060] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:36:54.748072] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:37:23.209014] [INFO] MEM: 28.9/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:37:23.210017] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:37:26.814036] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:37:55.256895] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:37:55.257915] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:37:58.892771] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:38:27.298605] [INFO] MEM: 29.0/31.6 GB used, 2.7 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:38:27.298605] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:38:30.932654] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:38:59.353356] [INFO] MEM: 29.2/31.6 GB used, 2.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:38:59.354351] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:39:02.973958] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:39:31.413564] [INFO] MEM: 29.3/31.6 GB used, 2.4 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:39:31.418291] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:39:35.028469] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:40:03.462740] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:40:03.463259] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:40:07.075321] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:40:35.515198] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:40:35.516203] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:40:39.128732] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:41:07.565824] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:41:07.565824] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:41:11.188943] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:41:39.610217] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:41:39.610217] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:41:43.252169] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:42:11.669148] [INFO] MEM: 29.4/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:42:11.669148] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:42:15.321224] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:42:43.718220] [INFO] MEM: 29.3/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:42:43.719234] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:42:47.369774] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:43:15.771469] [INFO] MEM: 29.3/31.6 GB used, 2.3 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:43:15.771469] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:43:19.429839] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:43:47.829395] [INFO] MEM: 29.1/31.6 GB used, 2.6 GB free | OLLAMA: [{'name': 'usamakenway/Qwen3-235B-A22B-Q2_K-GGUF:latest', 'size_gb': 81.8, 'vram_gb': 56.2}]
+[2026-03-23T16:43:47.829395] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:43:51.495983] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:44:19.908544] [INFO] MEM: 5.0/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:44:19.909144] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:44:23.545571] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:44:51.953611] [INFO] MEM: 5.0/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:44:51.954617] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:44:55.591980] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:45:24.015334] [INFO] MEM: 5.0/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:45:24.015858] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:45:27.663750] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:45:56.077587] [INFO] MEM: 5.0/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:45:56.077587] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:45:59.716404] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:46:28.162020] [INFO] MEM: 5.0/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:46:28.162562] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:46:31.796159] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:47:00.202903] [INFO] MEM: 5.1/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:47:00.203916] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:47:03.861453] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:47:32.269378] [INFO] MEM: 5.1/31.6 GB used, 26.6 GB free | OLLAMA: []
+[2026-03-23T16:47:32.270922] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:47:35.941554] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:48:04.334931] [INFO] MEM: 5.1/31.6 GB used, 26.5 GB free | OLLAMA: []
+[2026-03-23T16:48:04.334931] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:48:07.986167] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:48:36.381299] [INFO] MEM: 5.3/31.6 GB used, 26.4 GB free | OLLAMA: []
+[2026-03-23T16:48:36.381814] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:48:40.034237] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:49:08.448932] [INFO] MEM: 5.3/31.6 GB used, 26.4 GB free | OLLAMA: []
+[2026-03-23T16:49:08.448932] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:49:12.059151] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:49:40.485572] [INFO] MEM: 5.3/31.6 GB used, 26.3 GB free | OLLAMA: []
+[2026-03-23T16:49:40.486140] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:49:44.125103] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:50:12.539087] [INFO] MEM: 5.3/31.6 GB used, 26.3 GB free | OLLAMA: []
+[2026-03-23T16:50:12.539619] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:50:16.163723] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:50:44.606566] [INFO] MEM: 5.3/31.6 GB used, 26.3 GB free | OLLAMA: []
+[2026-03-23T16:50:44.607580] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:50:48.227418] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:51:16.670043] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:51:16.670043] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:51:20.285368] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:51:48.722019] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:51:48.734971] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:51:52.341714] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:52:20.807272] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:52:20.807272] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:52:24.407904] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:52:52.874175] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:52:52.875181] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:52:56.468683] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:53:24.938604] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:53:24.938604] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:53:28.507532] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:53:56.999592] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:53:57.001158] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:54:00.554970] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:54:29.071705] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:54:29.072718] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:54:32.619986] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:55:01.142296] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:55:01.142881] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:55:04.652446] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:55:33.215021] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:55:33.215021] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:55:36.728842] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:56:05.281826] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:56:05.282832] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:56:08.779924] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:56:37.333195] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:56:37.333195] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:56:40.839137] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:57:09.388256] [INFO] MEM: 5.5/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:57:09.388256] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:57:12.886988] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:57:41.458257] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:57:41.458785] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:57:44.941105] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:58:13.518624] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:58:13.519151] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:58:17.011522] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:58:45.595103] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:58:45.595103] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:58:49.086352] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:59:17.629235] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:59:17.661932] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:59:21.134322] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T16:59:49.707456] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T16:59:49.707970] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T16:59:53.211819] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:00:21.768049] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T17:00:21.768594] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:00:25.282716] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:00:53.843344] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T17:00:53.843344] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:00:57.342128] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:01:25.908125] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T17:01:25.908646] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:01:29.386537] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:01:57.954126] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T17:01:57.954694] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:02:01.442475] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:02:30.009496] [INFO] MEM: 5.6/31.6 GB used, 26.1 GB free | OLLAMA: []
+[2026-03-23T17:02:30.010510] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:02:33.534019] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:03:02.065986] [INFO] MEM: 5.8/31.6 GB used, 25.9 GB free | OLLAMA: []
+[2026-03-23T17:03:02.065986] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:03:05.580708] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:03:34.129026] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:03:34.129580] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:03:37.638530] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:04:06.185095] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:04:06.186100] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:04:09.704304] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:04:38.236741] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:04:38.237295] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:04:41.771068] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:05:10.279943] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:05:10.279943] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:05:13.828720] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:05:42.338475] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:05:42.339009] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:05:45.904310] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:06:14.419749] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:06:14.420754] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:06:17.975899] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:06:46.489825] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:06:46.490350] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:06:50.044330] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:07:18.544756] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:07:18.545297] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:07:22.119161] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:07:50.618545] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:07:50.618545] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:07:54.174424] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:08:22.682074] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:08:22.683083] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:08:26.229550] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:08:54.742496] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:08:54.743076] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:08:58.289694] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:09:26.800967] [INFO] MEM: 5.6/31.6 GB used, 26.0 GB free | OLLAMA: []
+[2026-03-23T17:09:26.800967] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:09:30.348446] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:09:58.850379] [INFO] MEM: 5.9/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:09:58.850379] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:10:02.427832] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:10:30.917964] [INFO] MEM: 6.1/31.6 GB used, 25.5 GB free | OLLAMA: []
+[2026-03-23T17:10:30.917964] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:10:34.457359] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:11:02.955060] [INFO] MEM: 5.9/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:11:02.956068] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:11:06.524489] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:11:35.000421] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:11:35.001425] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:11:38.589782] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:12:07.065166] [INFO] MEM: 5.9/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:12:07.066172] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:12:10.660072] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:12:39.140130] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:12:39.141137] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:12:42.707430] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:13:11.198297] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:13:11.198883] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:13:14.735918] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:13:43.263761] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:13:43.264767] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:13:46.811619] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:14:15.328745] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:14:15.329269] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:14:18.878851] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:14:47.380237] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:14:47.380791] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:14:50.944621] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:15:19.448130] [INFO] MEM: 6.0/31.6 GB used, 25.7 GB free | OLLAMA: []
+[2026-03-23T17:15:19.448697] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:15:22.990068] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:15:51.514290] [INFO] MEM: 6.1/31.6 GB used, 25.6 GB free | OLLAMA: []
+[2026-03-23T17:15:51.514290] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:15:55.046733] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:16:23.541472] [INFO] MEM: 6.1/31.6 GB used, 25.5 GB free | OLLAMA: []
+[2026-03-23T17:16:23.542015] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:16:27.117368] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:16:55.583647] [INFO] MEM: 6.2/31.6 GB used, 25.5 GB free | OLLAMA: []
+[2026-03-23T17:16:55.584211] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:16:59.167535] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:17:27.628515] [INFO] MEM: 6.1/31.6 GB used, 25.5 GB free | OLLAMA: []
+[2026-03-23T17:17:27.628515] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:17:31.212048] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:17:59.687274] [INFO] MEM: 6.1/31.6 GB used, 25.5 GB free | OLLAMA: []
+[2026-03-23T17:17:59.688297] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:18:03.274906] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:18:31.728864] [INFO] MEM: 6.1/31.6 GB used, 25.5 GB free | OLLAMA: []
+[2026-03-23T17:18:31.728864] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:18:35.309129] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:19:03.774646] [INFO] MEM: 6.2/31.6 GB used, 25.4 GB free | OLLAMA: []
+[2026-03-23T17:19:03.774646] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:19:07.364367] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:19:35.803290] [INFO] MEM: 6.5/31.6 GB used, 25.2 GB free | OLLAMA: []
+[2026-03-23T17:19:35.803828] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:19:39.419335] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:20:07.890337] [WARNING] MEM: 30.7/31.6 GB used, 1.0 GB free | OLLAMA: []
+[2026-03-23T17:20:07.894338] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:20:11.477215] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:20:40.003363] [INFO] MEM: 28.3/31.6 GB used, 3.4 GB free | OLLAMA: []
+[2026-03-23T17:20:40.006361] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:20:43.556014] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:21:12.037614] [CRITICAL] MEM: 31.2/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:21:12.038618] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:21:15.610738] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:21:44.173709] [CRITICAL] MEM: 31.2/31.6 GB used, 0.4 GB free | OLLAMA: []
+[2026-03-23T17:21:44.193709] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:21:47.688182] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:22:16.274891] [CRITICAL] MEM: 31.3/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:22:16.276892] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:22:19.770288] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:22:48.360995] [CRITICAL] MEM: 31.5/31.6 GB used, 0.2 GB free | OLLAMA: []
+[2026-03-23T17:22:48.362995] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:22:51.856402] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:23:20.408139] [INFO] MEM: 29.6/31.6 GB used, 2.0 GB free | OLLAMA: []
+[2026-03-23T17:23:20.409658] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:23:23.906574] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:23:52.521520] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:23:52.523523] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:23:55.968233] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:24:24.591149] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:24:24.591149] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:24:28.033655] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:24:56.668350] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:24:56.668865] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:25:00.066573] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:25:28.693408] [WARNING] MEM: 30.3/31.6 GB used, 1.3 GB free | OLLAMA: []
+[2026-03-23T17:25:28.695157] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:25:32.122021] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:26:00.734474] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:26:00.735477] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:26:04.161382] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:26:32.786860] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:26:32.787375] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:26:36.195232] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:27:04.820718] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:27:04.822275] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:27:08.231328] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:27:36.875528] [CRITICAL] MEM: 31.0/31.6 GB used, 0.7 GB free | OLLAMA: []
+[2026-03-23T17:27:36.875528] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:27:40.284559] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:28:08.914423] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:28:08.915428] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:28:12.318216] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:28:40.979191] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:28:40.980195] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:28:44.347759] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:29:13.032326] [CRITICAL] MEM: 31.2/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:29:13.032834] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:29:16.383734] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:29:45.073746] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:29:45.074749] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:29:48.479618] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:30:17.111163] [CRITICAL] MEM: 30.8/31.6 GB used, 0.9 GB free | OLLAMA: []
+[2026-03-23T17:30:17.112525] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:30:20.522350] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:30:49.163718] [WARNING] MEM: 30.4/31.6 GB used, 1.3 GB free | OLLAMA: []
+[2026-03-23T17:30:49.163718] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:30:52.571690] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:31:21.215401] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:31:21.216416] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:31:24.616182] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:31:53.245658] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:31:53.245658] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:31:56.658104] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:32:25.318703] [WARNING] MEM: 29.8/31.6 GB used, 1.8 GB free | OLLAMA: []
+[2026-03-23T17:32:25.318703] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:32:28.746498] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:32:57.366985] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:32:57.367505] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:33:00.797118] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:33:29.436417] [INFO] MEM: 28.2/31.6 GB used, 3.5 GB free | OLLAMA: []
+[2026-03-23T17:33:29.436934] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:33:32.836273] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:34:01.477659] [INFO] MEM: 28.4/31.6 GB used, 3.2 GB free | OLLAMA: []
+[2026-03-23T17:34:01.478666] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:34:04.878318] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:34:33.506717] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:34:33.513720] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:34:36.908535] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:35:05.540074] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:35:05.541173] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:35:08.936732] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:35:37.586521] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:35:37.587524] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:35:40.976648] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:36:09.621826] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:36:09.621826] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:36:13.005025] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:36:41.667264] [CRITICAL] MEM: 31.0/31.6 GB used, 0.7 GB free | OLLAMA: []
+[2026-03-23T17:36:41.668785] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:36:45.056815] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:37:13.736696] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:37:13.737222] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:37:17.102818] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:37:45.789005] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:37:45.790040] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:37:49.135266] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:38:17.856089] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:38:17.856627] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:38:21.168138] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:38:49.899591] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:38:49.899591] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:38:53.204746] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:39:21.949743] [WARNING] MEM: 29.8/31.6 GB used, 1.8 GB free | OLLAMA: []
+[2026-03-23T17:39:21.949743] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:39:25.276413] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:39:54.062312] [CRITICAL] MEM: 31.2/31.6 GB used, 0.4 GB free | OLLAMA: []
+[2026-03-23T17:39:54.066312] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:39:57.370152] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:40:26.357176] [CRITICAL] MEM: 31.6/31.6 GB used, 0.0 GB free | OLLAMA: []
+[2026-03-23T17:40:26.363682] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:40:29.445748] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:40:58.520467] [CRITICAL] MEM: 31.5/31.6 GB used, 0.2 GB free | OLLAMA: []
+[2026-03-23T17:40:58.529467] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:41:01.522136] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:41:30.617578] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:41:30.619577] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:41:33.586561] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:42:02.656918] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:42:02.657948] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:42:05.633462] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:42:34.703386] [CRITICAL] MEM: 31.4/31.6 GB used, 0.3 GB free | OLLAMA: []
+[2026-03-23T17:42:34.704388] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:42:37.697821] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:43:06.737586] [CRITICAL] MEM: 31.3/31.6 GB used, 0.4 GB free | OLLAMA: []
+[2026-03-23T17:43:06.738588] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:43:09.732297] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:43:38.787246] [CRITICAL] MEM: 31.3/31.6 GB used, 0.4 GB free | OLLAMA: []
+[2026-03-23T17:43:38.787784] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:43:41.771264] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:44:10.869950] [CRITICAL] MEM: 31.3/31.6 GB used, 0.4 GB free | OLLAMA: []
+[2026-03-23T17:44:10.869950] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:44:13.841034] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:44:42.954284] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:44:42.954284] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:44:45.896360] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:45:15.033890] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:45:15.034905] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:45:17.958925] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:45:47.111701] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:45:47.111701] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:45:50.025226] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:46:19.187634] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:46:19.187634] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:46:22.102742] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:46:51.261176] [CRITICAL] MEM: 31.0/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:46:51.555467] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:46:54.177410] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:47:23.609356] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:47:23.609356] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:47:26.221523] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:47:55.662303] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:47:55.663830] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:47:58.274380] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:48:27.737330] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:48:27.737850] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:48:30.345468] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:48:59.820275] [CRITICAL] MEM: 31.1/31.6 GB used, 0.5 GB free | OLLAMA: []
+[2026-03-23T17:48:59.820789] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:49:02.394527] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:49:31.874458] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:49:31.876458] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:49:34.460792] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:50:03.913334] [CRITICAL] MEM: 31.1/31.6 GB used, 0.6 GB free | OLLAMA: []
+[2026-03-23T17:50:03.913857] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:50:06.514376] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:50:35.971501] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: []
+[2026-03-23T17:50:35.973071] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:50:38.565905] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:51:08.043561] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: []
+[2026-03-23T17:51:08.047825] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:51:10.604046] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:51:40.106352] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:51:40.106352] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:51:42.640650] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:52:12.162017] [WARNING] MEM: 30.4/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:52:12.162593] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:52:14.808558] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:52:44.214818] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:52:44.214818] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:52:46.849173] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:53:16.392808] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: []
+[2026-03-23T17:53:16.393327] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:53:18.910698] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:53:48.458557] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:53:48.458557] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:53:50.968020] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:54:20.517753] [WARNING] MEM: 30.5/31.6 GB used, 1.2 GB free | OLLAMA: []
+[2026-03-23T17:54:20.517753] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:54:22.985713] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:54:52.572264] [WARNING] MEM: 30.5/31.6 GB used, 1.1 GB free | OLLAMA: []
+[2026-03-23T17:54:52.573277] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:54:55.035926] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:55:24.605373] [CRITICAL] MEM: 30.8/31.6 GB used, 0.8 GB free | OLLAMA: []
+[2026-03-23T17:55:24.606149] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:55:27.101723] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:55:56.664298] [CRITICAL] MEM: 30.9/31.6 GB used, 0.8 GB free | OLLAMA: []
+[2026-03-23T17:55:56.664821] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:55:59.197938] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:56:28.736720] [CRITICAL] MEM: 30.8/31.6 GB used, 0.8 GB free | OLLAMA: []
+[2026-03-23T17:56:28.737724] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:56:31.250701] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:57:00.801198] [CRITICAL] MEM: 30.8/31.6 GB used, 0.9 GB free | OLLAMA: []
+[2026-03-23T17:57:00.802198] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:57:03.327043] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:57:32.831346] [WARNING] MEM: 30.7/31.6 GB used, 1.0 GB free | OLLAMA: []
+[2026-03-23T17:57:32.832358] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:57:35.355901] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:58:04.885409] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T17:58:04.889413] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:58:07.405057] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:58:36.954906] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T17:58:36.955481] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:58:39.466334] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:59:08.978825] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T17:59:08.978825] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:59:11.538405] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T17:59:41.017665] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T17:59:41.017665] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T17:59:43.578905] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:00:13.061831] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:00:13.061831] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:00:15.620684] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:00:45.107478] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:00:45.108500] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:00:47.672992] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:01:17.146943] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:01:17.147570] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:01:19.720572] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:01:49.201156] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:01:49.201704] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:01:51.775005] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:02:21.261253] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:02:21.261253] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:02:23.802982] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:02:53.299852] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:02:53.300861] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:02:55.856346] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:03:25.373958] [INFO] MEM: 26.0/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:03:25.373958] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:03:27.887925] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:03:57.400868] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:03:57.400868] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:03:59.939470] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:04:29.472641] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:04:29.473646] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:04:31.977405] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:05:01.515652] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:05:01.516194] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:05:04.032570] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:05:33.548741] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:05:33.549315] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:05:36.079869] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:06:05.601584] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:06:05.602153] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:06:08.144332] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:06:37.639477] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:06:37.640003] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:06:40.204171] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:07:09.691956] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:07:09.692510] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:07:12.263835] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:07:41.730011] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:07:41.731566] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:07:44.343352] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:08:13.783847] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:08:13.784368] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:08:16.390845] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:08:45.830699] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:08:45.830699] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:08:48.452285] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:09:17.889917] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:09:17.889917] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:09:20.467225] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:09:49.930865] [INFO] MEM: 26.3/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:09:49.931405] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:09:52.519488] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:10:21.980627] [INFO] MEM: 26.1/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:10:21.981645] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:10:24.567046] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:10:54.034173] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:10:54.034173] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:10:56.622765] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:11:26.075499] [INFO] MEM: 26.1/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:11:26.079033] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:11:28.681599] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:11:58.129648] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:11:58.130202] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:12:00.728239] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:12:30.162165] [INFO] MEM: 26.4/31.6 GB used, 5.2 GB free | OLLAMA: []
+[2026-03-23T18:12:30.162682] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:12:32.784885] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:13:02.194011] [INFO] MEM: 26.3/31.6 GB used, 5.3 GB free | OLLAMA: []
+[2026-03-23T18:13:02.194011] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:13:04.832093] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:13:34.225685] [INFO] MEM: 26.2/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:13:34.226211] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:13:36.865506] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:14:06.256378] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:14:06.256378] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:14:08.907713] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:14:38.300688] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:14:38.301215] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:14:40.959510] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:15:10.342018] [INFO] MEM: 26.2/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:15:10.342018] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:15:12.995853] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:15:42.386150] [INFO] MEM: 26.2/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:15:42.386727] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:15:45.049792] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:16:14.433890] [INFO] MEM: 26.3/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:16:14.434447] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:16:17.098646] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:16:46.475912] [INFO] MEM: 26.3/31.6 GB used, 5.3 GB free | OLLAMA: []
+[2026-03-23T18:16:46.475912] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:16:49.129220] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:17:18.530598] [INFO] MEM: 26.3/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:17:18.531154] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:17:21.162123] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:17:50.576371] [INFO] MEM: 26.3/31.6 GB used, 5.3 GB free | OLLAMA: []
+[2026-03-23T18:17:50.576371] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:17:53.190041] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:18:22.633245] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:18:22.633782] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:18:25.236923] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:18:54.679459] [INFO] MEM: 26.1/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:18:54.680026] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:18:57.286328] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:19:26.743026] [INFO] MEM: 26.1/31.6 GB used, 5.6 GB free | OLLAMA: []
+[2026-03-23T18:19:26.743026] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:19:29.346719] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:19:58.808010] [INFO] MEM: 26.1/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:19:58.809018] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:20:01.395353] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:20:30.832774] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:20:30.833354] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:20:33.424809] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:21:02.871237] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:21:02.871753] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:21:05.461514] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:21:34.935374] [INFO] MEM: 26.2/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:21:34.936094] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:21:37.504773] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:22:06.992099] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:22:06.993120] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:22:09.544720] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:22:39.047383] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:22:39.047943] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:22:41.591185] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:23:11.106727] [INFO] MEM: 26.1/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:23:11.106727] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:23:13.649728] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:23:43.162461] [INFO] MEM: 26.1/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:23:43.163496] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:23:45.691592] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:24:15.203414] [INFO] MEM: 26.2/31.6 GB used, 5.5 GB free | OLLAMA: []
+[2026-03-23T18:24:15.203414] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:24:17.761312] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:24:47.239510] [INFO] MEM: 26.4/31.6 GB used, 5.3 GB free | OLLAMA: []
+[2026-03-23T18:24:47.240053] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:24:49.810681] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:25:19.308653] [INFO] MEM: 26.2/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:25:19.308653] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:25:21.858297] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:25:51.369075] [INFO] MEM: 26.3/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:25:51.370083] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:25:53.894717] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:26:23.420419] [INFO] MEM: 26.2/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:26:23.420982] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:26:25.968283] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:26:55.469428] [INFO] MEM: 26.3/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:26:55.469428] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:26:58.046953] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:27:27.523794] [INFO] MEM: 26.4/31.6 GB used, 5.2 GB free | OLLAMA: []
+[2026-03-23T18:27:27.523794] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:27:30.094751] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:27:59.569775] [INFO] MEM: 26.3/31.6 GB used, 5.4 GB free | OLLAMA: []
+[2026-03-23T18:27:59.569775] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:28:02.134387] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:28:31.600211] [INFO] MEM: 25.2/31.6 GB used, 6.4 GB free | OLLAMA: []
+[2026-03-23T18:28:31.600211] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:28:34.186835] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:29:03.652754] [INFO] MEM: 25.2/31.6 GB used, 6.4 GB free | OLLAMA: []
+[2026-03-23T18:29:03.652754] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:29:06.225635] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:29:35.709325] [INFO] MEM: 25.2/31.6 GB used, 6.4 GB free | OLLAMA: []
+[2026-03-23T18:29:35.709325] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:29:38.295889] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:30:07.778339] [INFO] MEM: 25.2/31.6 GB used, 6.4 GB free | OLLAMA: []
+[2026-03-23T18:30:07.778899] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:30:10.355275] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:30:39.842598] [INFO] MEM: 25.2/31.6 GB used, 6.4 GB free | OLLAMA: []
+[2026-03-23T18:30:39.843130] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:30:42.388009] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:31:11.883597] [INFO] MEM: 25.3/31.6 GB used, 6.3 GB free | OLLAMA: []
+[2026-03-23T18:31:11.884138] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:31:14.425320] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:31:43.938045] [INFO] MEM: 25.3/31.6 GB used, 6.3 GB free | OLLAMA: []
+[2026-03-23T18:31:43.938045] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:31:46.454869] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:32:15.992745] [INFO] MEM: 25.3/31.6 GB used, 6.3 GB free | OLLAMA: []
+[2026-03-23T18:32:15.992745] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:32:18.504828] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:32:48.033790] [INFO] MEM: 25.4/31.6 GB used, 6.3 GB free | OLLAMA: []
+[2026-03-23T18:32:48.033790] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:32:50.535264] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:33:20.061447] [INFO] MEM: 25.3/31.6 GB used, 6.3 GB free | OLLAMA: []
+[2026-03-23T18:33:20.061447] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:33:22.578327] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:33:52.115161] [INFO] MEM: 25.4/31.6 GB used, 6.3 GB free | OLLAMA: []
+[2026-03-23T18:33:52.115710] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:33:54.631185] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []
+[2026-03-23T18:34:24.132932] [INFO] MEM: 25.4/31.6 GB used, 6.2 GB free | OLLAMA: []
+[2026-03-23T18:34:24.132932] [CRITICAL] REPEATED LOW MEMORY — likely crash imminent. Saving state.
+[2026-03-23T18:34:26.673973] [INFO] MEM: {'error': "[Errno 2] No such file or directory: '/proc/meminfo'"} | OLLAMA: []

@@ -53,6 +53,12 @@ CPU-only mode worked at 9.15 tok/s (already faster than Windows GPU). But the re
 
 **Result: 17-19 tok/s with all 61 layers on GPU.** Nearly 3x the Windows baseline. The open-source Vulkan driver beat AMD's proprietary compute stack.
 
+### Phase 5: ROCm 7.2 — Better, But Still Limited
+
+Upgraded to ROCm 7.2 after community feedback. The 6.4 segfault is fixed — small GPU allocations (10 layers / 17GB) now work at 7.65 tok/s. But any substantial offload (33+ layers) fails with `amdgpu: SVM mapping failed, exceeds resident system memory limit`. The model is 107GB on a system with 109GB visible RAM — HIP's SVM needs headroom that doesn't exist. Vulkan remains the only path to full GPU offload at this model size.
+
+See [ROCM_72_TEST.md](ROCM_72_TEST.md) for full test results.
+
 ## BIOS Configuration
 
 The BIOS UMA split is critical. Different backends need different configs:
@@ -121,7 +127,7 @@ export PATH="/c/Program Files/AMD/ROCm/7.1/bin:$PATH"
 
 ## Key Technical Findings
 
-1. **Vulkan beats ROCm on Strix Halo:** ROCm 6.4 HIP runtime segfaults on gfx1151 (null pointer deref in `libamdhip64.so`). Mesa RADV Vulkan driver works perfectly. Open-source > proprietary here.
+1. **Vulkan beats ROCm on Strix Halo:** ROCm 6.4 segfaults (`libamdhip64.so`). ROCm 7.2 fixes that but hits SVM resident memory limits for large allocations. Mesa RADV Vulkan driver works perfectly for any size. Open-source > proprietary here.
 
 2. **The TTM fix:** Kernel 6.17 deprecated `amdgpu.gttsize`. Use `ttm.pages_limit=30146560` in GRUB to get ~115GB GPU-accessible memory (default is ~56GB).
 
@@ -144,6 +150,7 @@ export PATH="/c/Program Files/AMD/ROCm/7.1/bin:$PATH"
 - `model_ladder.py` — Multi-model benchmark ladder
 - `results/` — Raw benchmark data (JSON/CSV)
 - `benchmark.sh` — Screen recording benchmark script (Linux)
+- `ROCM_72_TEST.md` — ROCm 7.2 vs 6.4 test results and analysis
 
 ## What's Next
 

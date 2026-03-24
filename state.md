@@ -62,11 +62,8 @@ Vulkan driver reports 69GB free device memory but **cannot allocate even 510MB**
 - hipMalloc single buffer up to ~59GB → 33/61 layers for 397B → 6.82 tok/s
 - This is the Windows ceiling. Period.
 
-### Path forward:
-1. **Linux** — Gygeek guide shows 12.3 tok/s on 235B with 512MB VRAM. No hipMalloc cap on Linux.
-2. **Multiple smaller allocations** — patch llama.cpp to split the GPU buffer into 2+ allocations
-3. **hipMallocManaged / coarse-grain memory** — ROCm #5944 says not supported on RDNA 3.5 Windows, but worth retesting with HIP 7.1
-4. **Linux** — Gygeek guide shows 12.3 tok/s on 235B with 512MB VRAM on Linux; Linux doesn't have the hipMalloc cap
+### Path forward: LINUX
+All Windows software paths exhausted. Linux has no hipMalloc cap.
 
 ## BUILDS AVAILABLE
 1. **HIP build** — `llama.cpp/build/bin/` — native gfx1151, UMA patched, working
@@ -125,3 +122,91 @@ Vulkan driver reports 69GB free device memory but **cannot allocate even 510MB**
 - ROCm #5940: Windows Strix Halo VRAM allocation fix (marked fixed, awaiting driver)
 - Coarse-grain speedup: Issue #7399 (2x with hipMemAdviseSetCoarseGrain)
 - Strix Halo guide: github.com/Gygeek/Framework-strix-halo-llm-setup (Linux only)
+
+---
+
+## LINUX SETUP PLAN (PICK UP HERE AFTER OS SWAP)
+
+### Why Linux
+Windows hipMalloc is hard-capped at ~60GB total. Linux has no such cap. Gygeek guide shows 12+ tok/s on 235B with all layers on GPU. We expect **10-12+ tok/s on 397B** with all 61 layers offloaded.
+
+### GitHub Repo
+**https://github.com/thebeedubya/autoresearch** — clone this first thing after Linux install.
+SSH key on this machine: `brad@wonderingwoods.com` ed25519, already added to GitHub (thebeedubya).
+Auth tokens: `~/Projects/auth.md` on Windows partition (readable from Linux via NTFS mount).
+
+### Dual Boot Setup (In Progress)
+- Ubuntu 24.04.2 LTS ISO downloaded to Windows Downloads folder
+- Rufus downloaded, flashing to 128GB SD card (D: drive)
+- Windows partition will be shrunk to make ~200GB for Linux
+
+### BIOS Changes Needed for Linux
+1. Set UMA Frame Buffer to **512MB** (Linux uses GTT, not VRAM carveout)
+2. **Disable IOMMU** (~6% memory improvement per Gygeek)
+3. Keep Above 4G Decoding and Re-Size BAR enabled
+
+### GRUB Boot Parameters
+Add to `/etc/default/grub` GRUB_CMDLINE_LINUX_DEFAULT:
+```
+amd_iommu=off amdgpu.gttsize=117760
+```
+Then run `sudo update-grub` and reboot. This gives the GPU ~115GB via GTT from 128GB system RAM.
+
+### Kernel Requirements
+- **Minimum: 6.12** for gfx1151 amdgpu support
+- **Recommended: 6.13+** for stability fixes
+- Ubuntu 24.04 ships 6.8 — MUST upgrade via HWE kernel or mainline
+- Install HWE: `sudo apt install linux-image-hwe-24.04`
+- Or use mainline kernel tool for 6.13+
+
+### Firmware Requirements
+- linux-firmware **20250110 or newer** for Strix Halo blobs
+- `sudo apt install linux-firmware` (may need PPA or git for latest)
+- Firmware files: `amdgpu/gc_12_0_0*.bin`, `amdgpu/psp_14_0_4*.bin`, `amdgpu/sdma_7_0_2*.bin`
+
+### ROCm 6.4 Installation
+```bash
+# Add AMD ROCm repo
+wget https://repo.radeon.com/rocm/rocm.gpg.key -O - | sudo gpg --dearmor -o /etc/apt/keyrings/rocm.gpg
+echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/rocm.gpg] https://repo.radeon.com/rocm/apt/6.4 noble main" | sudo tee /etc/apt/sources.list.d/rocm.list
+sudo apt update
+sudo apt install rocm-hip-runtime rocm-hip-sdk
+```
+Verify: `rocminfo | grep gfx`
+
+### Build llama.cpp on Linux
+```bash
+git clone https://github.com/ggml-org/llama.cpp
+cd llama.cpp
+cmake -B build -S . -DGGML_HIP=ON -DAMDGPU_TARGETS="gfx1151" -DCMAKE_BUILD_TYPE=Release
+cmake --build build --config Release -j$(nproc)
+```
+
+### Models Location
+Models are on the Windows NTFS partition. Mount it read-only from Linux:
+```bash
+sudo mkdir /mnt/windows
+sudo mount -t ntfs3 /dev/nvme0n1p3 /mnt/windows -o ro
+# Models at: /mnt/windows/Users/Brad/Projects/models/
+```
+- `qwen35-397b-iq2xxs/Qwen3.5-397B-A17B-UD-IQ2_XXS-00001-of-00004.gguf` (107GB, 4 shards)
+- `qwen3-235b-q2k/Q2_K/Qwen3-235B-A22B-Q2_K-00001-of-00002.gguf` (80GB, 2 shards)
+
+### Test Plan (Linux)
+1. Verify GPU detected: `rocminfo | grep gfx1151`
+2. Verify memory: `rocminfo | grep -A5 "Pool"` — should show ~115GB GTT
+3. Test 235B at -ngl 999 `--no-mmap` (Gygeek says --no-mmap required)
+4. Test 397B at -ngl 999 `--no-mmap` — **THE MONEY SHOT**
+5. If 397B all layers works: benchmark for tok/s
+6. Target: **10-12+ tok/s on 397B**
+
+### Run Command (Linux)
+```bash
+export HSA_OVERRIDE_GFX_VERSION=11.0.0  # may not be needed with native gfx1151 build
+./build/bin/llama-server \
+  -m /mnt/windows/Users/Brad/Projects/models/qwen35-397b-iq2xxs/Qwen3.5-397B-A17B-UD-IQ2_XXS-00001-of-00004.gguf \
+  -ngl 999 --no-mmap -c 4096 --parallel 1 --port 8080
+```
+
+### Rollback Plan
+If Linux doesn't work: reboot, select Windows in GRUB, everything is exactly as we left it at 6.82 tok/s.

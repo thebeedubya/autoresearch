@@ -55,9 +55,41 @@ CPU-only mode worked at 9.15 tok/s (already faster than Windows GPU). But the re
 
 ### Phase 5: ROCm 7.2 — Better, But Still Limited
 
-Upgraded to ROCm 7.2 after community feedback. The 6.4 segfault is fixed — small GPU allocations (10 layers / 17GB) now work at 7.65 tok/s. But any substantial offload (33+ layers) fails with `amdgpu: SVM mapping failed, exceeds resident system memory limit`. The model is 107GB on a system with 109GB visible RAM — HIP's SVM needs headroom that doesn't exist. Vulkan remains the only path to full GPU offload at this model size.
+Upgraded to ROCm 7.2 after community feedback that 6.4 was outdated. Rebuilt llama.cpp against the new HIP runtime (`hip-runtime-amd 7.2.26015.70200`, `libhsa-runtime64.so.1.18.70200`) and tested every layer count.
 
-See [ROCM_72_TEST.md](ROCM_72_TEST.md) for full test results.
+**The 6.4 segfault is fixed.** Small GPU allocations now work — 10 layers (17GB on GPU) loads and runs at 7.65 tok/s. This is a real improvement over 6.4 where even 10 layers crashed.
+
+**But large allocations still fail.** Anything above ~17GB hits a different wall:
+
+```
+amdgpu: SVM mapping failed, exceeds resident system memory limit
+```
+
+Followed by a segfault in `libhsa-runtime64.so` (different library than the 6.4 crash). We tested exhaustively:
+
+| Config | GPU Buffer | Result |
+|--------|-----------|--------|
+| HIP 7.2, 10 layers | 16.8 GB | **Works** — 7.65 tok/s |
+| HIP 7.2, 33 layers (mmap) | 58.4 GB | SVM mapping failed, stuck |
+| HIP 7.2, 33 layers (no-mmap) | 58.4 GB + 50.6 GB host | Segfault |
+| HIP 7.2, 50 layers | 89.1 GB | SVM mapping failed, stuck |
+| HIP 7.2, 55 layers | 98.1 GB | SVM mapping failed, stuck |
+| HIP 7.2, 61 layers | 109.0 GB | Segfault |
+| **Vulkan RADV, 61 layers** | **109.0 GB** | **17-19 tok/s** |
+
+**Why it fails:** The model is 107GB. The OS sees 109GB (128GB minus 16GB BIOS VRAM carveout). HIP uses SVM (Shared Virtual Memory) mapping which requires pages to be physically resident in RAM. With mmap, the model data in page cache and GPU SVM mapping compete for the same physical RAM. Without mmap, the CPU host buffer plus GPU buffer totals 109GB — exactly the system RAM with zero headroom.
+
+**Why Vulkan works:** Mesa RADV doesn't use SVM mapping. It handles unified memory through direct buffer object allocation via DRM/KMS, which doesn't have the resident memory limit check. This lets it allocate the full 109GB model buffer without fighting the kernel's memory manager.
+
+**Potential fix (not yet tested):** Changing BIOS UMA Frame Buffer from 16GB to 512MB would free ~15GB of system RAM, giving the OS ~127GB total. This should provide enough headroom for HIP's SVM. Requires a reboot and BIOS change.
+
+**Packages upgraded for this test:**
+```
+hip-runtime-amd    6.4.43482.60400 → 7.2.26015.70200
+rocm-llvm          19.0.0.25133    → 22.0.0.26014
+hsa-rocr           1.15.0.60400    → 1.18.0.70200
+rocblas            4.4.0.60400     → 5.2.0.70200
+```
 
 ## BIOS Configuration
 
